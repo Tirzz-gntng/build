@@ -39,7 +39,8 @@
       "rename": 2
     },
     "8658608584": {
-      "rename": 1
+      "rename": 1,
+      "renameapp": 2
     }
   }
 }
