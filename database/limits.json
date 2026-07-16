@@ -26,13 +26,18 @@
     },
     "8221516209": {
       "rename": 1,
-      "gantiicon": 1,
-      "renameall": 2
+      "gantiicon": 1
     },
     "7640582650": {
       "rename": 1
     },
     "8622387739": {
+      "renameall": 1
+    },
+    "8642241108": {
+      "rename": 1
+    },
+    "8863050630": {
       "renameall": 1
     }
   }
