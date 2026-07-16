@@ -38,5 +38,13 @@
     "run_id": 29479135899,
     "user_id": 8981567996,
     "created_at": "2026-07-16T07:12:23.742Z"
+  },
+  "mrn727ciwzx3a": {
+    "job_id": "mrn727ciwzx3a",
+    "release_id": 354930892,
+    "release_tag": "build-mrn727ciwzx3a",
+    "run_id": 29480429603,
+    "user_id": 7580689417,
+    "created_at": "2026-07-16T07:35:22.780Z"
   }
 }
