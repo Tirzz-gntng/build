@@ -92,10 +92,16 @@
       "renameall": 1
     },
     "8494116243": {
-      "functions": 2
+      "functions": 3
     },
     "7415863181": {
       "renameall": 1
+    },
+    "7640582650": {
+      "rename": 1
+    },
+    "5467588321": {
+      "functions": 1
     }
   }
 }
