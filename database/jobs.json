@@ -278,5 +278,13 @@
     "run_id": 29555614056,
     "user_id": 8742624365,
     "created_at": "2026-07-17T04:45:19.798Z"
+  },
+  "mroglxjc4530x": {
+    "job_id": "mroglxjc4530x",
+    "release_id": 355478520,
+    "release_tag": "build-mroglxjc4530x",
+    "run_id": 29555814571,
+    "user_id": 8742624365,
+    "created_at": "2026-07-17T04:50:26.836Z"
   }
 }
