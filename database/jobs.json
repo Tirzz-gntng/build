@@ -550,5 +550,13 @@
     "run_id": 29626977852,
     "user_id": 8579663770,
     "created_at": "2026-07-18T02:24:08.351Z"
+  },
+  "mrpr5ymjwm48h": {
+    "job_id": "mrpr5ymjwm48h",
+    "release_id": 355998900,
+    "release_tag": "build-mrpr5ymjwm48h",
+    "run_id": 29627258854,
+    "user_id": 8955093341,
+    "created_at": "2026-07-18T02:33:42.053Z"
   }
 }
