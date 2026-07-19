@@ -982,5 +982,13 @@
     "run_id": 29684700114,
     "user_id": 1919139657,
     "created_at": "2026-07-19T11:12:01.399Z"
+  },
+  "mrrp4gf4lx2c6": {
+    "job_id": "mrrp4gf4lx2c6",
+    "release_id": 356320962,
+    "release_tag": "build-mrrp4gf4lx2c6",
+    "run_id": 29684703004,
+    "user_id": 8683900477,
+    "created_at": "2026-07-19T11:12:07.004Z"
   }
 }
