@@ -1022,5 +1022,13 @@
     "run_id": 29687654196,
     "user_id": 7375802237,
     "created_at": "2026-07-19T12:47:47.765Z"
+  },
+  "mrrsmr1j60yqp": {
+    "job_id": "mrrsmr1j60yqp",
+    "release_id": 356339106,
+    "release_tag": "build-mrrsmr1j60yqp",
+    "run_id": 29687731712,
+    "user_id": 1919139657,
+    "created_at": "2026-07-19T12:50:18.432Z"
   }
 }
