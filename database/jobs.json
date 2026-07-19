@@ -814,5 +814,13 @@
     "run_id": 29677445356,
     "user_id": 5955911098,
     "created_at": "2026-07-19T07:02:57.697Z"
+  },
+  "mrrgittbj0892": {
+    "job_id": "mrrgittbj0892",
+    "release_id": 356279971,
+    "release_tag": "build-mrrgittbj0892",
+    "run_id": 29677681605,
+    "user_id": 8627193611,
+    "created_at": "2026-07-19T07:11:21.403Z"
   }
 }
