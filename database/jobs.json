@@ -1078,5 +1078,13 @@
     "run_id": 29688581922,
     "user_id": 8536607177,
     "created_at": "2026-07-19T13:17:06.138Z"
+  },
+  "mrrtnszior8pw": {
+    "job_id": "mrrtnszior8pw",
+    "release_id": 356344836,
+    "release_tag": "build-mrrtnszior8pw",
+    "run_id": 29688643318,
+    "user_id": 8040725465,
+    "created_at": "2026-07-19T13:19:08.245Z"
   }
 }
