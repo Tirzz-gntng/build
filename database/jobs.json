@@ -1142,5 +1142,13 @@
     "run_id": 29720751876,
     "user_id": 8463257259,
     "created_at": "2026-07-20T06:07:10.990Z"
+  },
+  "mrsusprvch7wj": {
+    "job_id": "mrsusprvch7wj",
+    "release_id": 356535420,
+    "release_tag": "build-mrsusprvch7wj",
+    "run_id": 29722269374,
+    "user_id": 1379729539,
+    "created_at": "2026-07-20T06:38:44.201Z"
   }
 }
