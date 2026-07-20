@@ -195,7 +195,8 @@
       "renameall": 2
     },
     "8800089809": {
-      "renameall": 1
+      "renameall": 1,
+      "rename": 1
     }
   }
 }
