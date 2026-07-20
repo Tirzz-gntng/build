@@ -1222,5 +1222,13 @@
     "run_id": 29726237994,
     "user_id": 8952276834,
     "created_at": "2026-07-20T07:57:22.682Z"
+  },
+  "mrsy0ngh5cy1q": {
+    "job_id": "mrsy0ngh5cy1q",
+    "release_id": 356572390,
+    "release_tag": "build-mrsy0ngh5cy1q",
+    "run_id": 29726876052,
+    "user_id": 7145251285,
+    "created_at": "2026-07-20T08:08:52.590Z"
   }
 }
