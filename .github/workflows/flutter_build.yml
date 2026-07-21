@@ -97,7 +97,7 @@ jobs:
           if [ "${{ inputs.build_type }}" = "debug" ]; then
             flutter build apk --debug
           else
-            flutter build apk --release
+            flutter build apk --release --verbose
           fi
 
       - name: Upload APK sebagai artifact
