@@ -215,7 +215,15 @@
       "rename": 1
     },
     "8030353442": {
-      "renameall": 1
+      "renameall": 1,
+      "renameapp": 1,
+      "rename": 1
+    },
+    "7558235491": {
+      "rename": 1
+    },
+    "8774018483": {
+      "rename": 1
     }
   }
 }
