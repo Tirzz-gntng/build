@@ -1174,5 +1174,13 @@
     "run_id": 29836407156,
     "user_id": 8348762038,
     "created_at": "2026-07-21T13:52:04.462Z"
+  },
+  "mrustmryx2f4e": {
+    "job_id": "mrustmryx2f4e",
+    "release_id": 357443692,
+    "release_tag": "build-mrustmryx2f4e",
+    "run_id": 29843383163,
+    "user_id": 8940769735,
+    "created_at": "2026-07-21T15:18:59.513Z"
   }
 }
