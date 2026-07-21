@@ -1774,5 +1774,13 @@
     "run_id": 29823916322,
     "user_id": 8937281182,
     "created_at": "2026-07-21T10:52:44.872Z"
+  },
+  "mrujghgwwqo4s": {
+    "job_id": "mrujghgwwqo4s",
+    "release_id": 357277104,
+    "release_tag": "build-mrujghgwwqo4s",
+    "run_id": 29824187115,
+    "user_id": 8205246500,
+    "created_at": "2026-07-21T10:56:57.260Z"
   }
 }
