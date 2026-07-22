@@ -1982,5 +1982,13 @@
     "run_id": 29950154545,
     "user_id": 5013223704,
     "created_at": "2026-07-22T19:14:53.771Z"
+  },
+  "mrwgxlprdnrv2": {
+    "job_id": "mrwgxlprdnrv2",
+    "release_id": 358260475,
+    "release_tag": "build-mrwgxlprdnrv2",
+    "run_id": 29950629416,
+    "user_id": 1297654147,
+    "created_at": "2026-07-22T19:21:43.316Z"
   }
 }
