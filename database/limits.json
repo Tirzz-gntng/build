@@ -274,7 +274,10 @@
       "renameall": 1
     },
     "8352293246": {
-      "renameall": 1,
+      "renameall": 2,
+      "rename": 1
+    },
+    "8627193611": {
       "rename": 1
     }
   }
