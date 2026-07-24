@@ -308,7 +308,8 @@
       "jshtml": 1
     },
     "7332560321": {
-      "renameall": 1
+      "renameall": 1,
+      "renameapp": 1
     }
   }
 }
