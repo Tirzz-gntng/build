@@ -316,7 +316,11 @@
       "renameapp": 1
     },
     "8305230310": {
-      "renameapp": 3
+      "renameapp": 3,
+      "gantiicon": 1
+    },
+    "8813045913": {
+      "rename": 1
     }
   }
 }
