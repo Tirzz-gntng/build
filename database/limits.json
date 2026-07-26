@@ -341,20 +341,11 @@
     "8806051123": {
       "renameall": 1
     },
-    "8326470631": {
-      "gantiicon": 1
+    "6885463015": {
+      "rename": 1
     },
-    "8295888517": {
-      "renameall": 3,
-      "functions": 1
-    },
-    "8570110049": {
-      "renameall": 1
-    },
-    "8784137074": {
-      "renameapp": 1,
-      "gantiicon": 2,
-      "renameall": 1
+    "8571612683": {
+      "rename": 2
     }
   }
 }
