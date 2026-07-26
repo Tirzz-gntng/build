@@ -357,11 +357,10 @@
     "8959202877": {
       "rename": 1,
       "renameapp": 1,
-      "gantiicon": 1,
-      "renameall": 2
+      "gantiicon": 1
     },
     "8676382864": {
-      "functions": 1
+      "functions": 2
     }
   }
 }
