@@ -357,7 +357,8 @@
     "8959202877": {
       "rename": 1,
       "renameapp": 1,
-      "gantiicon": 1
+      "gantiicon": 1,
+      "renameall": 1
     }
   }
 }
