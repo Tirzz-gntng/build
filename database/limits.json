@@ -353,7 +353,8 @@
     },
     "8784137074": {
       "renameapp": 1,
-      "gantiicon": 1
+      "gantiicon": 2,
+      "renameall": 1
     }
   }
 }
