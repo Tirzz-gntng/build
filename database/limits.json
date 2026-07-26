@@ -327,7 +327,8 @@
     },
     "8775666061": {
       "recolour": 6,
-      "rename": 1
+      "rename": 1,
+      "renameall": 1
     }
   }
 }
