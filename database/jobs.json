@@ -2366,5 +2366,13 @@
     "run_id": 30375130727,
     "user_id": 8594358853,
     "created_at": "2026-07-28T15:48:01.391Z"
+  },
+  "ms4u693s25mpa": {
+    "job_id": "ms4u693s25mpa",
+    "release_id": 361208129,
+    "release_tag": "build-ms4u693s25mpa",
+    "run_id": 30375661561,
+    "user_id": 8530552266,
+    "created_at": "2026-07-28T15:54:28.951Z"
   }
 }
