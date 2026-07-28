@@ -2355,8 +2355,9 @@
     "user_id": 8187568334,
     "analyze_only": true,
     "build_type": "analyze",
-    "status": "pending",
-    "created_at": "2026-07-28T18:37:55.695Z"
+    "status": "failed",
+    "created_at": "2026-07-28T18:37:55.695Z",
+    "completed_at": "2026-07-28T18:44:52.244Z"
   },
   "ms504ql9pwptv": {
     "job_id": "ms504ql9pwptv",
