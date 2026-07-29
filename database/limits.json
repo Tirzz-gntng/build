@@ -391,7 +391,7 @@
       "rename": 8
     },
     "8788784559": {
-      "rename": 2
+      "rename": 1
     },
     "7547698698": {
       "renameall": 1
@@ -407,21 +407,12 @@
       "rename": 1
     },
     "8385750215": {
-      "renameall": 3,
-      "rename": 1
+      "renameall": 1
     },
     "8494116243": {
-      "rename": 3
+      "rename": 1
     },
-    "8728798273": {
-      "jshtml": 1
-    },
-    "8030353442": {
-      "rename": 2,
-      "gantiicon": 3
-    },
-    "8925127378": {
-      "renameall": 3,
+    "8409262492": {
       "rename": 1
     }
   }
