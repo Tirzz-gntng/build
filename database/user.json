@@ -385,5 +385,23 @@
     "joinedAt": "2026-07-30T12:34:24.722Z",
     "lastSeenAt": "2026-07-30T12:34:24.722Z",
     "startCount": 1
+  },
+  "8176207256": {
+    "id": 8176207256,
+    "username": "ARDZZGZ",
+    "first_name": "ardzzx",
+    "last_name": null,
+    "joinedAt": "2026-07-30T12:40:54.967Z",
+    "lastSeenAt": "2026-07-30T12:40:54.967Z",
+    "startCount": 1
+  },
+  "8775666061": {
+    "id": 8775666061,
+    "username": "finzjs",
+    "first_name": "Finz ร้านค้า🇹🇭",
+    "last_name": null,
+    "joinedAt": "2026-07-30T12:40:55.034Z",
+    "lastSeenAt": "2026-07-30T12:40:55.034Z",
+    "startCount": 1
   }
 }
