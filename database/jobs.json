@@ -2807,7 +2807,8 @@
     "user_id": 8931706214,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-07-30T20:13:32.829Z"
+    "status": "failed",
+    "created_at": "2026-07-30T20:13:32.829Z",
+    "completed_at": "2026-07-30T20:14:06.246Z"
   }
 }
