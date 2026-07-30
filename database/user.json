@@ -374,8 +374,8 @@
     "first_name": "aldo",
     "last_name": null,
     "joinedAt": "2026-07-30T04:29:06.268Z",
-    "lastSeenAt": "2026-07-30T08:16:56.221Z",
-    "startCount": 5
+    "lastSeenAt": "2026-07-30T08:45:32.501Z",
+    "startCount": 6
   },
   "8817174913": {
     "id": 8817174913,
@@ -384,15 +384,6 @@
     "last_name": null,
     "joinedAt": "2026-07-30T04:32:29.003Z",
     "lastSeenAt": "2026-07-30T04:32:29.019Z",
-    "startCount": 3
-  },
-  "8974514699": {
-    "id": 8974514699,
-    "username": "PARADOX4CC",
-    "first_name": "𝐏ΛЯΛĐØ𝐗",
-    "last_name": null,
-    "joinedAt": "2026-07-30T08:29:29.809Z",
-    "lastSeenAt": "2026-07-30T08:44:26.584Z",
     "startCount": 3
   }
 }
