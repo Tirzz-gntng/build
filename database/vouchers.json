@@ -18,5 +18,11 @@
     "maxUses": 3,
     "usedBy": [],
     "createdAt": "2026-07-30T07:48:58.219Z"
+  },
+  "TIRZZ-86EC946F": {
+    "amount": 15,
+    "maxUses": 35,
+    "usedBy": [],
+    "createdAt": "2026-07-30T09:18:58.572Z"
   }
 }
