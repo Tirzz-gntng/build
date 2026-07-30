@@ -2553,5 +2553,16 @@
     "status": "success",
     "created_at": "2026-07-30T09:33:38.358Z",
     "completed_at": "2026-07-30T09:39:14.439Z"
+  },
+  "ms7c020v28naj": {
+    "job_id": "ms7c020v28naj",
+    "release_id": 362326875,
+    "release_tag": "build-ms7c020v28naj",
+    "run_id": 30532198565,
+    "user_id": 8922990296,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-07-30T09:49:07.296Z"
   }
 }
