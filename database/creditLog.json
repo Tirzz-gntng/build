@@ -334,5 +334,47 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-07-30T03:54:18.184Z"
+  },
+  {
+    "userId": 8652439449,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-07-30T04:28:17.230Z"
+  },
+  {
+    "userId": 8936903957,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-07-30T04:28:20.537Z"
+  },
+  {
+    "userId": 8579155731,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-07-30T04:28:26.155Z"
+  },
+  {
+    "userId": 8283128898,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-07-30T04:28:29.904Z"
+  },
+  {
+    "userId": 8817174913,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-07-30T04:32:28.981Z"
+  },
+  {
+    "userId": 8817174913,
+    "type": "earn",
+    "amount": 10009686,
+    "reason": "Redeem voucher",
+    "at": "2026-07-30T04:32:28.991Z"
   }
 ]
