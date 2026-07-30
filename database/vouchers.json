@@ -12,5 +12,11 @@
     "maxUses": 10,
     "usedBy": [],
     "createdAt": "2026-07-30T04:38:22.238Z"
+  },
+  "TIRZZ-DDD0412C": {
+    "amount": 25,
+    "maxUses": 3,
+    "usedBy": [],
+    "createdAt": "2026-07-30T07:48:58.219Z"
   }
 }
