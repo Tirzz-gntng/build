@@ -2562,8 +2562,9 @@
     "user_id": 8922990296,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-07-30T09:49:07.296Z"
+    "status": "failed",
+    "created_at": "2026-07-30T09:49:07.296Z",
+    "completed_at": "2026-07-30T09:53:28.358Z"
   },
   "ms7c5dmkrqhif": {
     "job_id": "ms7c5dmkrqhif",
