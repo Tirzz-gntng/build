@@ -2,7 +2,15 @@
   "TIRZZ-00B8DC96": {
     "amount": 10009686,
     "maxUses": 1,
-    "usedBy": [],
+    "usedBy": [
+      8817174913
+    ],
     "createdAt": "2026-07-30T04:30:52.333Z"
+  },
+  "TIRZZ-2A02B5C1": {
+    "amount": 10,
+    "maxUses": 10,
+    "usedBy": [],
+    "createdAt": "2026-07-30T04:38:22.238Z"
   }
 }
