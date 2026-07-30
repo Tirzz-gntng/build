@@ -374,8 +374,8 @@
     "first_name": "aldo",
     "last_name": null,
     "joinedAt": "2026-07-30T04:29:06.268Z",
-    "lastSeenAt": "2026-07-30T08:16:56.221Z",
-    "startCount": 5
+    "lastSeenAt": "2026-07-30T08:45:32.501Z",
+    "startCount": 6
   },
   "8817174913": {
     "id": 8817174913,
@@ -386,49 +386,13 @@
     "lastSeenAt": "2026-07-30T04:32:29.019Z",
     "startCount": 3
   },
-  "8974514699": {
-    "id": 8974514699,
-    "username": "PARADOX4CC",
-    "first_name": "𝐏ΛЯΛĐØ𝐗",
+  "8749754012": {
+    "id": 8749754012,
+    "username": "Xtarla09",
+    "first_name": "Keylaaa",
     "last_name": null,
-    "joinedAt": "2026-07-30T08:29:29.809Z",
-    "lastSeenAt": "2026-07-30T08:29:29.809Z",
-    "startCount": 1
-  },
-  "8978639061": {
-    "id": 8978639061,
-    "username": null,
-    "first_name": ": ?⃟꙰ SOMEONE💦",
-    "last_name": null,
-    "joinedAt": "2026-07-30T09:15:47.568Z",
-    "lastSeenAt": "2026-07-30T09:15:47.568Z",
-    "startCount": 1
-  },
-  "7836077330": {
-    "id": 7836077330,
-    "username": "maklowini",
-    "first_name": "𝐁𝐢𝐦𝐳𝐔𝐧𝐜𝐢𝐧𝐡𝐚 𝐓𝟓",
-    "last_name": null,
-    "joinedAt": "2026-07-30T09:18:10.066Z",
-    "lastSeenAt": "2026-07-30T09:20:50.667Z",
-    "startCount": 2
-  },
-  "5463369284": {
-    "id": 5463369284,
-    "username": "backupbim",
-    "first_name": "𝐁𝐢𝐦𝐳𝐙𝐞𝐧𝐧 #𝐑𝐀𝐒𝐓𝐀𝐁❂𝐘$🎖",
-    "last_name": null,
-    "joinedAt": "2026-07-30T09:20:52.604Z",
-    "lastSeenAt": "2026-07-30T09:20:52.604Z",
-    "startCount": 1
-  },
-  "8366103363": {
-    "id": 8366103363,
-    "username": "Grok_md",
-    "first_name": "𝐆𝐑𝐎𝐊 𝐓𝐄𝐀𝐌 $𝐊𝐨𝐟",
-    "last_name": null,
-    "joinedAt": "2026-07-30T09:22:17.504Z",
-    "lastSeenAt": "2026-07-30T09:22:17.504Z",
+    "joinedAt": "2026-07-30T09:23:30.494Z",
+    "lastSeenAt": "2026-07-30T09:23:30.494Z",
     "startCount": 1
   }
 }
