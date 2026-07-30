@@ -385,5 +385,14 @@
     "joinedAt": "2026-07-30T04:32:29.003Z",
     "lastSeenAt": "2026-07-30T04:32:29.019Z",
     "startCount": 3
+  },
+  "7075715476": {
+    "id": 7075715476,
+    "username": "Hariansiyah",
+    "first_name": "User tidak di ketahui",
+    "last_name": null,
+    "joinedAt": "2026-07-30T07:44:55.555Z",
+    "lastSeenAt": "2026-07-30T07:44:55.555Z",
+    "startCount": 1
   }
 }
