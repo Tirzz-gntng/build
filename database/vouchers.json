@@ -41,7 +41,9 @@
   "TIRZZ-B8755D73": {
     "amount": 2,
     "maxUses": 1,
-    "usedBy": [],
+    "usedBy": [
+      8775666061
+    ],
     "createdAt": "2026-07-30T13:18:12.414Z"
   }
 }
