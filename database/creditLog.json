@@ -630,66 +630,108 @@
     "at": "2026-07-31T08:33:53.924Z"
   },
   {
-    "userId": 7846988726,
+    "userId": 2146214931,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T09:59:54.075Z"
+    "at": "2026-07-31T10:34:06.432Z"
   },
   {
-    "userId": 8986542163,
+    "userId": 7184420971,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T10:09:20.289Z"
+    "at": "2026-07-31T10:48:57.812Z"
   },
   {
-    "userId": 6563722693,
+    "userId": 8646908463,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T10:09:49.403Z"
+    "at": "2026-07-31T12:13:19.898Z"
   },
   {
-    "userId": 6304585438,
+    "userId": 1010011975,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T12:14:39.375Z"
+    "at": "2026-07-31T12:18:37.316Z"
   },
   {
-    "userId": 8652439449,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T12:20:03.679Z"
-  },
-  {
-    "userId": 8817174913,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T15:40:04.470Z"
-  },
-  {
-    "userId": 8817174913,
+    "userId": 8646908463,
     "type": "spend",
     "amount": 1,
-    "reason": "Rename Nama App",
-    "at": "2026-07-31T15:42:17.630Z"
+    "reason": "Rename All",
+    "at": "2026-07-31T12:22:04.005Z"
   },
   {
-    "userId": 8476789725,
+    "userId": 5846108236,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename All",
+    "at": "2026-07-31T12:40:13.240Z"
+  },
+  {
+    "userId": 8753425748,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Encrypt Script (random)",
+    "at": "2026-07-31T13:23:29.156Z"
+  },
+  {
+    "userId": 8646172257,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T15:43:15.432Z"
+    "at": "2026-07-31T13:26:08.722Z"
   },
   {
-    "userId": 8579155731,
+    "userId": 8753425748,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Encrypt Script (japan)",
+    "at": "2026-07-31T13:30:59.005Z"
+  },
+  {
+    "userId": 8753425748,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Encrypt Script (korean)",
+    "at": "2026-07-31T13:31:58.085Z"
+  },
+  {
+    "userId": 8753425748,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Encrypt Script (custom)",
+    "at": "2026-07-31T13:35:39.372Z"
+  },
+  {
+    "userId": 8219292372,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T15:48:11.791Z"
+    "at": "2026-07-31T15:38:51.361Z"
+  },
+  {
+    "userId": 8156224216,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-07-31T16:35:44.622Z"
+  },
+  {
+    "userId": 8156224216,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-07-31T16:37:52.327Z"
+  },
+  {
+    "userId": 8724510227,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-07-31T18:04:59.465Z"
   }
 ]
