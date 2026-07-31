@@ -672,10 +672,38 @@
     "at": "2026-07-31T12:40:13.240Z"
   },
   {
-    "userId": 1464672172,
+    "userId": 8753425748,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Encrypt Script (random)",
+    "at": "2026-07-31T13:23:29.156Z"
+  },
+  {
+    "userId": 8646172257,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T12:50:02.198Z"
+    "at": "2026-07-31T13:26:08.722Z"
+  },
+  {
+    "userId": 8753425748,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Encrypt Script (japan)",
+    "at": "2026-07-31T13:30:59.005Z"
+  },
+  {
+    "userId": 8753425748,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Encrypt Script (korean)",
+    "at": "2026-07-31T13:31:58.085Z"
+  },
+  {
+    "userId": 8753425748,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Encrypt Script (custom)",
+    "at": "2026-07-31T13:35:39.372Z"
   }
 ]
