@@ -572,5 +572,33 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-07-31T03:19:27.156Z"
+  },
+  {
+    "userId": 8580570122,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-07-31T04:50:19.668Z"
+  },
+  {
+    "userId": 8736289594,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-07-31T04:50:41.689Z"
+  },
+  {
+    "userId": 1982535604,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-07-31T05:54:08.706Z"
+  },
+  {
+    "userId": 1982535604,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Nama App",
+    "at": "2026-07-31T05:55:06.992Z"
   }
 ]
