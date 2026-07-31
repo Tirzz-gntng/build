@@ -322,5 +322,14 @@
     "joinedAt": "2026-07-31T14:08:40.997Z",
     "lastSeenAt": "2026-07-31T14:08:40.997Z",
     "startCount": 1
+  },
+  "7634715161": {
+    "id": 7634715161,
+    "username": "yosu_str",
+    "first_name": "STR",
+    "last_name": null,
+    "joinedAt": "2026-07-31T15:05:21.726Z",
+    "lastSeenAt": "2026-07-31T15:05:21.726Z",
+    "startCount": 1
   }
 }
