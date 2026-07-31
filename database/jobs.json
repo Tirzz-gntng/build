@@ -2672,8 +2672,9 @@
     "user_id": 8710356613,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
+    "status": "success",
     "created_at": "2026-07-31T22:29:11.706Z",
-    "dispatched_at": "2026-07-31T22:29:10.416Z"
+    "dispatched_at": "2026-07-31T22:29:10.416Z",
+    "completed_at": "2026-07-31T22:36:02.085Z"
   }
 }
