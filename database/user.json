@@ -313,5 +313,14 @@
     "joinedAt": "2026-07-31T10:48:57.813Z",
     "lastSeenAt": "2026-07-31T10:51:50.977Z",
     "startCount": 3
+  },
+  "8646908463": {
+    "id": 8646908463,
+    "username": null,
+    "first_name": "Rifal",
+    "last_name": null,
+    "joinedAt": "2026-07-31T12:25:18.846Z",
+    "lastSeenAt": "2026-07-31T12:25:18.846Z",
+    "startCount": 1
   }
 }
