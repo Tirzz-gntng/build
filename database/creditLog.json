@@ -630,80 +630,45 @@
     "at": "2026-07-31T08:33:53.924Z"
   },
   {
-    "userId": 2146214931,
+    "userId": 7846988726,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T10:34:06.432Z"
+    "at": "2026-07-31T09:59:54.075Z"
   },
   {
-    "userId": 7184420971,
+    "userId": 8986542163,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T10:48:57.812Z"
+    "at": "2026-07-31T10:09:20.289Z"
   },
   {
-    "userId": 8646908463,
+    "userId": 6563722693,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T12:13:19.898Z"
+    "at": "2026-07-31T10:09:49.403Z"
   },
   {
-    "userId": 1010011975,
+    "userId": 7624553156,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T12:18:37.316Z"
+    "at": "2026-07-31T12:06:23.225Z"
   },
   {
-    "userId": 8646908463,
-    "type": "spend",
-    "amount": 1,
-    "reason": "Rename All",
-    "at": "2026-07-31T12:22:04.005Z"
+    "userId": 7775621384,
+    "type": "earn",
+    "amount": 10000,
+    "reason": "Diberikan owner",
+    "at": "2026-07-31T14:08:31.811Z"
   },
   {
-    "userId": 5846108236,
-    "type": "spend",
-    "amount": 1,
-    "reason": "Rename All",
-    "at": "2026-07-31T12:40:13.240Z"
-  },
-  {
-    "userId": 8753425748,
-    "type": "spend",
-    "amount": 1,
-    "reason": "Encrypt Script (random)",
-    "at": "2026-07-31T13:23:29.156Z"
-  },
-  {
-    "userId": 8646172257,
+    "userId": 8825803857,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-07-31T13:26:08.722Z"
-  },
-  {
-    "userId": 8753425748,
-    "type": "spend",
-    "amount": 1,
-    "reason": "Encrypt Script (japan)",
-    "at": "2026-07-31T13:30:59.005Z"
-  },
-  {
-    "userId": 8753425748,
-    "type": "spend",
-    "amount": 1,
-    "reason": "Encrypt Script (korean)",
-    "at": "2026-07-31T13:31:58.085Z"
-  },
-  {
-    "userId": 8753425748,
-    "type": "spend",
-    "amount": 1,
-    "reason": "Encrypt Script (custom)",
-    "at": "2026-07-31T13:35:39.372Z"
+    "at": "2026-07-31T15:04:16.163Z"
   }
 ]
