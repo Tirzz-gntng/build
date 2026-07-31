@@ -663,5 +663,12 @@
     "amount": 1,
     "reason": "Rename All",
     "at": "2026-07-31T12:22:04.005Z"
+  },
+  {
+    "userId": 5846108236,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename All",
+    "at": "2026-07-31T12:40:13.240Z"
   }
 ]
