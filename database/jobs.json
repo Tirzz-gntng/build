@@ -2903,7 +2903,8 @@
     "user_id": 8818976798,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-07-31T07:19:47.695Z"
+    "status": "success",
+    "created_at": "2026-07-31T07:19:47.695Z",
+    "completed_at": "2026-07-31T07:26:39.278Z"
   }
 }
