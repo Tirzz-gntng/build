@@ -2575,8 +2575,18 @@
     "user_id": 8817174913,
     "analyze_only": false,
     "build_type": "release",
-    "status": "failed",
-    "created_at": "2026-07-31T09:54:27.523Z",
-    "completed_at": "2026-07-31T10:00:16.747Z"
+    "status": "pending",
+    "created_at": "2026-07-31T09:54:27.523Z"
+  },
+  "ms8s5s6vt4afh": {
+    "job_id": "ms8s5s6vt4afh",
+    "release_id": 362982661,
+    "release_tag": "build-ms8s5s6vt4afh",
+    "run_id": 30622548947,
+    "user_id": 7846988726,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-07-31T10:09:20.249Z"
   }
 }
