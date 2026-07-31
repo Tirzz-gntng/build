@@ -2622,9 +2622,10 @@
     "user_id": 8463257259,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
+    "status": "failed",
     "created_at": "2026-07-31T12:27:15.320Z",
-    "dispatched_at": "2026-07-31T12:27:13.987Z"
+    "dispatched_at": "2026-07-31T12:27:13.987Z",
+    "completed_at": "2026-07-31T12:32:03.132Z"
   },
   "ms8x5p1xatedz": {
     "job_id": "ms8x5p1xatedz",
