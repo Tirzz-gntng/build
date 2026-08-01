@@ -68,8 +68,8 @@
     "first_name": "1 B Ϟ U X T #Celtics",
     "last_name": null,
     "joinedAt": "2026-08-01T09:04:11.919Z",
-    "lastSeenAt": "2026-08-01T09:04:11.919Z",
-    "startCount": 1
+    "lastSeenAt": "2026-08-01T13:18:42.139Z",
+    "startCount": 2
   },
   "1975322359": {
     "id": 1975322359,
@@ -95,8 +95,8 @@
     "first_name": "⏤͟͟͞͞𝐓𝐢𝐫𝐳𝐳'𝐍𝐨𝐭𝐃𝐞𝐯 ♞",
     "last_name": null,
     "joinedAt": "2026-07-29T12:42:18.579Z",
-    "lastSeenAt": "2026-08-01T13:18:24.785Z",
-    "startCount": 21
+    "lastSeenAt": "2026-08-01T13:18:51.292Z",
+    "startCount": 25
   },
   "7547698698": {
     "id": 7547698698,
@@ -113,8 +113,8 @@
     "first_name": "キンツァヤ ¿¿",
     "last_name": null,
     "joinedAt": "2026-07-29T12:42:20.228Z",
-    "lastSeenAt": "2026-07-29T18:09:57.709Z",
-    "startCount": 3
+    "lastSeenAt": "2026-08-01T13:18:52.429Z",
+    "startCount": 4
   },
   "8409262492": {
     "id": 8409262492,
@@ -680,7 +680,25 @@
     "first_name": "l",
     "last_name": null,
     "joinedAt": "2026-08-01T13:18:25.677Z",
-    "lastSeenAt": "2026-08-01T13:18:25.677Z",
+    "lastSeenAt": "2026-08-01T13:18:41.643Z",
+    "startCount": 3
+  },
+  "8847085131": {
+    "id": 8847085131,
+    "username": "ALLZZXX",
+    "first_name": "𝐀𝐋𝐙𝐙 𝐗 𝐑𝐎𝐓𝐓¢",
+    "last_name": null,
+    "joinedAt": "2026-08-01T13:18:31.240Z",
+    "lastSeenAt": "2026-08-01T13:18:31.240Z",
     "startCount": 1
+  },
+  "8742536466": {
+    "id": 8742536466,
+    "username": "Skynwar",
+    "first_name": "Gus?",
+    "last_name": null,
+    "joinedAt": "2026-08-01T13:18:35.496Z",
+    "lastSeenAt": "2026-08-01T13:18:38.827Z",
+    "startCount": 2
   }
 }
