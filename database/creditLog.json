@@ -978,5 +978,12 @@
     "amount": 6981698560,
     "reason": "Diberikan owner",
     "at": "2026-08-01T14:44:22.215Z"
+  },
+  {
+    "userId": 8646172257,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-01T14:52:38.361Z"
   }
 ]
