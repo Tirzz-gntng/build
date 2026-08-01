@@ -617,8 +617,8 @@
     "first_name": "SANZ 𝐓𝟓 [LIMPER]",
     "last_name": "SEC acc @sanzv2gw",
     "joinedAt": "2026-08-01T09:04:22.560Z",
-    "lastSeenAt": "2026-08-01T09:04:22.560Z",
-    "startCount": 1
+    "lastSeenAt": "2026-08-01T17:40:52.474Z",
+    "startCount": 2
   },
   "8968665090": {
     "id": 8968665090,
@@ -676,11 +676,20 @@
   },
   "8813900957": {
     "id": 8813900957,
-    "username": "Bedeembe",
+    "username": "Nullfly6766676755675576",
     "first_name": "Adadeh",
     "last_name": null,
     "joinedAt": "2026-08-01T17:39:57.889Z",
-    "lastSeenAt": "2026-08-01T17:39:58.251Z",
-    "startCount": 3
+    "lastSeenAt": "2026-08-01T17:40:04.107Z",
+    "startCount": 4
+  },
+  "7465813801": {
+    "id": 7465813801,
+    "username": "LevJava404",
+    "first_name": "𝙻𝙴𝙾 𝚆𝙰𝙺𝙰𝙶𝙰 𝙼𝙳",
+    "last_name": "./𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝",
+    "joinedAt": "2026-08-01T17:40:06.746Z",
+    "lastSeenAt": "2026-08-01T17:40:06.746Z",
+    "startCount": 1
   }
 }
