@@ -3173,7 +3173,8 @@
     "user_id": 8233992441,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-01T14:47:07.783Z"
+    "status": "success",
+    "created_at": "2026-08-01T14:47:07.783Z",
+    "completed_at": "2026-08-01T14:53:12.738Z"
   }
 }
