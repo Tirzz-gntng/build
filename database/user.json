@@ -217,12 +217,12 @@
   },
   "8938118595": {
     "id": 8938118595,
-    "username": "biscuitMD",
+    "username": "lydianotdev",
     "first_name": "⸸𝙭𝙫𝙖𝙣𝙚𝙨𝙘𝙩 𝙡𝙮𝙙𝙞𝙖𝙖",
     "last_name": null,
     "joinedAt": "2026-07-30T02:02:50.841Z",
-    "lastSeenAt": "2026-08-01T04:53:52.689Z",
-    "startCount": 4
+    "lastSeenAt": "2026-07-30T09:46:06.355Z",
+    "startCount": 3
   },
   "8984326648": {
     "id": 8984326648,
@@ -266,8 +266,8 @@
     "first_name": "𝐃𝐢𝐭𝐳",
     "last_name": "𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
     "joinedAt": "2026-07-30T02:03:00.588Z",
-    "lastSeenAt": "2026-08-01T04:23:16.620Z",
-    "startCount": 5
+    "lastSeenAt": "2026-07-31T16:43:11.823Z",
+    "startCount": 4
   },
   "7772345649": {
     "id": 7772345649,
@@ -335,11 +335,11 @@
   "8813045913": {
     "id": 8813045913,
     "username": "PtJeloolPediareal",
-    "first_name": "JELOOL PEDIA",
-    "last_name": "[ HANYA ORANG RENDAHAN YANG GAK BISA APA² ]",
+    "first_name": "PT. JELOOL PEDIA || PERUSAHAAN DIGITAL SHOP",
+    "last_name": null,
     "joinedAt": "2026-07-30T02:03:26.689Z",
-    "lastSeenAt": "2026-08-01T06:18:21.777Z",
-    "startCount": 2
+    "lastSeenAt": "2026-07-30T02:03:26.689Z",
+    "startCount": 1
   },
   "8459042587": {
     "id": 8459042587,
@@ -538,5 +538,41 @@
     "joinedAt": "2026-08-01T02:36:42.010Z",
     "lastSeenAt": "2026-08-01T03:15:40.159Z",
     "startCount": 2
+  },
+  "7571009414": {
+    "id": 7571009414,
+    "username": "elnicholl",
+    "first_name": "ܓܓܛܓ",
+    "last_name": "✧𝙚𝙡𝙭 𝙣𝙤𝙩𝙙𝙚𝙫✧",
+    "joinedAt": "2026-08-01T04:02:40.990Z",
+    "lastSeenAt": "2026-08-01T04:02:40.990Z",
+    "startCount": 1
+  },
+  "8646896826": {
+    "id": 8646896826,
+    "username": "aldirzyXnatax",
+    "first_name": "AldiRzy",
+    "last_name": null,
+    "joinedAt": "2026-08-01T04:23:15.898Z",
+    "lastSeenAt": "2026-08-01T04:23:15.898Z",
+    "startCount": 1
+  },
+  "6624357409": {
+    "id": 6624357409,
+    "username": "Elarionc",
+    "first_name": "🃟𝙻𝚢𝚢𝚗𝚊𝚕𝚎𝚢 𝓛𝓸𝓸𝓴𝓲𝓼𝓶",
+    "last_name": null,
+    "joinedAt": "2026-08-01T05:12:48.381Z",
+    "lastSeenAt": "2026-08-01T05:12:48.381Z",
+    "startCount": 1
+  },
+  "8931706214": {
+    "id": 8931706214,
+    "username": "Zpakezo",
+    "first_name": "—͟͞͞ Z𝕻AKEZO || 𝙉𝙀𝙑𝙀𝙍𝘿𝙄𝙀 || 𝐗𝐀𝐙-𝐗𝐂𝐑𝐀𝐒𝐇 || TVE [REHAT]",
+    "last_name": null,
+    "joinedAt": "2026-08-01T06:27:29.338Z",
+    "lastSeenAt": "2026-08-01T06:27:29.338Z",
+    "startCount": 1
   }
 }
