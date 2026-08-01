@@ -896,94 +896,17 @@
     "at": "2026-08-01T12:32:06.092Z"
   },
   {
-    "userId": 8030353442,
-    "type": "earn",
-    "amount": 8202154211,
-    "reason": "Redeem voucher",
-    "at": "2026-08-01T12:32:31.356Z"
-  },
-  {
-    "userId": 7992561104,
-    "type": "earn",
-    "amount": 8202154211,
-    "reason": "Redeem voucher",
-    "at": "2026-08-01T12:32:32.426Z"
-  },
-  {
-    "userId": 8082687114,
+    "userId": 7571009414,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T12:33:59.043Z"
+    "at": "2026-08-01T12:35:02.951Z"
   },
   {
-    "userId": 8030353442,
-    "type": "spend",
-    "amount": 1,
-    "reason": "Ganti Icon App",
-    "at": "2026-08-01T12:40:01.281Z"
-  },
-  {
-    "userId": 8753425748,
-    "type": "earn",
-    "amount": 8202154211,
-    "reason": "Redeem voucher",
-    "at": "2026-08-01T12:43:28.667Z"
-  },
-  {
-    "userId": 8580570122,
-    "type": "earn",
-    "amount": 8202154211,
-    "reason": "Redeem voucher",
-    "at": "2026-08-01T12:44:54.742Z"
-  },
-  {
-    "userId": 8970441182,
+    "userId": 8724646962,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T12:52:57.464Z"
-  },
-  {
-    "userId": 7486694365,
-    "type": "earn",
-    "amount": 8202154211,
-    "reason": "Redeem voucher",
-    "at": "2026-08-01T13:05:33.510Z"
-  },
-  {
-    "userId": 8385750215,
-    "type": "earn",
-    "amount": 8202154211,
-    "reason": "Redeem voucher",
-    "at": "2026-08-01T13:07:32.412Z"
-  },
-  {
-    "userId": 8385750215,
-    "type": "spend",
-    "amount": 1,
-    "reason": "Rename All",
-    "at": "2026-08-01T13:13:16.326Z"
-  },
-  {
-    "userId": 8306752132,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T13:34:31.424Z"
-  },
-  {
-    "userId": 6981698560,
-    "type": "earn",
-    "amount": 6981698560,
-    "reason": "Diberikan owner",
-    "at": "2026-08-01T14:44:22.215Z"
-  },
-  {
-    "userId": 8646172257,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T14:52:38.361Z"
+    "at": "2026-08-01T16:46:06.029Z"
   }
 ]
