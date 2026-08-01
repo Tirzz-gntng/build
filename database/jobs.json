@@ -2876,28 +2876,27 @@
     "created_at": "2026-08-01T07:48:19.534Z",
     "completed_at": "2026-08-01T07:54:17.495Z"
   },
-  "msaiasmel20dk": {
-    "job_id": "msaiasmel20dk",
-    "release_id": 363552410,
-    "release_tag": "build-msaiasmel20dk",
-    "run_id": 30705267849,
-    "user_id": 8753425748,
-    "created_at": "2026-08-01T15:08:42.446Z"
+  "msaas4xuxchng": {
+    "job_id": "msaas4xuxchng",
+    "release_id": 363510734,
+    "release_tag": "build-msaas4xuxchng",
+    "run_id": 30698087413,
+    "user_id": 8938118595,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "success",
+    "created_at": "2026-08-01T11:38:22.517Z",
+    "completed_at": "2026-08-01T11:43:05.104Z"
   },
-  "msais2xnumi6h": {
-    "job_id": "msais2xnumi6h",
-    "release_id": 363555395,
-    "release_tag": "build-msais2xnumi6h",
-    "run_id": 30705752913,
-    "user_id": 8753425748,
-    "created_at": "2026-08-01T15:22:07.429Z"
-  },
-  "msaiy1thyfdjm": {
-    "job_id": "msaiy1thyfdjm",
-    "release_id": 363556702,
-    "release_tag": "build-msaiy1thyfdjm",
-    "run_id": 30705923718,
-    "user_id": 7226571855,
-    "created_at": "2026-08-01T15:26:50.877Z"
+  "msaj6t68zf25o": {
+    "job_id": "msaj6t68zf25o",
+    "release_id": 363558286,
+    "release_tag": "build-msaj6t68zf25o",
+    "run_id": 30706179821,
+    "user_id": 8938118595,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-01T15:33:37.961Z"
   }
 }
