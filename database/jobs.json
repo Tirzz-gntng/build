@@ -2977,5 +2977,16 @@
     "status": "failed",
     "created_at": "2026-08-01T12:16:28.299Z",
     "completed_at": "2026-08-01T12:17:12.351Z"
+  },
+  "msacgebxigl40": {
+    "job_id": "msacgebxigl40",
+    "release_id": 363519757,
+    "release_tag": "build-msacgebxigl40",
+    "run_id": 30699643239,
+    "user_id": 6304585438,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-01T12:25:06.840Z"
   }
 }
