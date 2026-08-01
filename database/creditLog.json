@@ -782,5 +782,19 @@
     "amount": 1,
     "reason": "Rename All",
     "at": "2026-08-01T03:20:19.794Z"
+  },
+  {
+    "userId": 8610998973,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-01T03:34:28.668Z"
+  },
+  {
+    "userId": 6703879456,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-01T03:41:26.669Z"
   }
 ]
