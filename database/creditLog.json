@@ -735,94 +735,59 @@
     "at": "2026-07-31T18:04:59.465Z"
   },
   {
-    "userId": 8341930513,
+    "userId": 7624553156,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T00:41:11.914Z"
+    "at": "2026-07-31T23:45:24.240Z"
   },
   {
-    "userId": 2114428721,
+    "userId": 8996940077,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T01:38:39.698Z"
+    "at": "2026-08-01T00:44:31.212Z"
   },
   {
-    "userId": 8374927844,
+    "userId": 8618271266,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T01:44:53.660Z"
+    "at": "2026-08-01T02:44:26.268Z"
   },
   {
-    "userId": 8992763012,
+    "userId": 8694195032,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T02:09:27.376Z"
+    "at": "2026-08-01T04:09:24.350Z"
   },
   {
-    "userId": 8388124015,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T02:40:28.748Z"
-  },
-  {
-    "userId": 8747272578,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T03:03:43.485Z"
-  },
-  {
-    "userId": 8385750215,
+    "userId": 8694195032,
     "type": "spend",
     "amount": 1,
-    "reason": "Rename All",
-    "at": "2026-08-01T03:20:19.794Z"
+    "reason": "Rename Nama App",
+    "at": "2026-08-01T04:13:35.154Z"
   },
   {
-    "userId": 1658963667,
+    "userId": 8549975709,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T03:45:42.272Z"
+    "at": "2026-08-01T04:13:45.323Z"
   },
   {
-    "userId": 8676382864,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T03:47:05.389Z"
-  },
-  {
-    "userId": 8970441182,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T03:50:23.553Z"
-  },
-  {
-    "userId": 8970441182,
+    "userId": 8694195032,
     "type": "spend",
     "amount": 1,
-    "reason": "Rename Domain",
-    "at": "2026-08-01T04:18:03.228Z"
+    "reason": "Rename Nama App",
+    "at": "2026-08-01T04:18:02.307Z"
   },
   {
-    "userId": 8586589639,
+    "userId": 8120723484,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T04:30:27.343Z"
-  },
-  {
-    "userId": 8632858856,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T04:31:39.132Z"
+    "at": "2026-08-01T04:31:47.559Z"
   }
 ]
