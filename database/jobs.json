@@ -2965,5 +2965,16 @@
     "status": "failed",
     "created_at": "2026-08-01T12:13:10.785Z",
     "completed_at": "2026-08-01T12:13:44.021Z"
+  },
+  "msac5a6jca8m0": {
+    "job_id": "msac5a6jca8m0",
+    "release_id": 363518167,
+    "release_tag": "build-msac5a6jca8m0",
+    "run_id": 30699367775,
+    "user_id": 7469470196,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-01T12:16:28.299Z"
   }
 }
