@@ -86,8 +86,8 @@
     "first_name": "⏤͟͟͞͞𝐓𝐢𝐫𝐳𝐳'𝐍𝐨𝐭𝐃𝐞𝐯 ♞",
     "last_name": null,
     "joinedAt": "2026-07-29T12:42:18.579Z",
-    "lastSeenAt": "2026-08-01T03:46:19.856Z",
-    "startCount": 11
+    "lastSeenAt": "2026-08-01T09:04:20.289Z",
+    "startCount": 12
   },
   "7547698698": {
     "id": 7547698698,
@@ -257,8 +257,8 @@
     "first_name": "̶G̶a̶r̶s̶x̶N̶o̶t̶D̶e̶v",
     "last_name": null,
     "joinedAt": "2026-07-30T02:02:57.178Z",
-    "lastSeenAt": "2026-08-01T09:04:09.361Z",
-    "startCount": 2
+    "lastSeenAt": "2026-08-01T09:11:27.590Z",
+    "startCount": 3
   },
   "8219127877": {
     "id": 8219127877,
@@ -600,6 +600,15 @@
     "last_name": null,
     "joinedAt": "2026-08-01T08:48:10.235Z",
     "lastSeenAt": "2026-08-01T08:48:10.235Z",
+    "startCount": 1
+  },
+  "8202154211": {
+    "id": 8202154211,
+    "username": "sanz009",
+    "first_name": "SANZ 𝐓𝟓 [LIMPER]",
+    "last_name": "SEC acc @sanzv2gw",
+    "joinedAt": "2026-08-01T09:04:22.560Z",
+    "lastSeenAt": "2026-08-01T09:04:22.560Z",
     "startCount": 1
   }
 }
