@@ -973,10 +973,24 @@
     "at": "2026-08-01T13:34:31.424Z"
   },
   {
-    "userId": 8233992441,
+    "userId": 7828817566,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T14:41:48.103Z"
+    "at": "2026-08-01T14:14:54.147Z"
+  },
+  {
+    "userId": 6981698560,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-01T14:39:34.207Z"
+  },
+  {
+    "userId": 6981698560,
+    "type": "earn",
+    "amount": 6981698560,
+    "reason": "Diberikan owner",
+    "at": "2026-08-01T14:42:05.569Z"
   }
 ]
