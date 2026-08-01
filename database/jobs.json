@@ -2998,8 +2998,9 @@
     "user_id": 7992561104,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-01T12:28:13.198Z"
+    "status": "success",
+    "created_at": "2026-08-01T12:28:13.198Z",
+    "completed_at": "2026-08-01T12:36:08.462Z"
   },
   "msacpyota6btw": {
     "job_id": "msacpyota6btw",
