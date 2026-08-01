@@ -502,5 +502,14 @@
     "joinedAt": "2026-08-01T01:45:33.949Z",
     "lastSeenAt": "2026-08-01T01:45:33.949Z",
     "startCount": 1
+  },
+  "8992763012": {
+    "id": 8992763012,
+    "username": "Official_Monzo_Support_Banking6e",
+    "first_name": "Support Monzo Banking Service",
+    "last_name": null,
+    "joinedAt": "2026-08-01T02:09:27.378Z",
+    "lastSeenAt": "2026-08-01T02:09:29.962Z",
+    "startCount": 2
   }
 }
