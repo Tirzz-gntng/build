@@ -819,10 +819,17 @@
     "at": "2026-08-01T05:21:45.328Z"
   },
   {
-    "userId": 8652439449,
+    "userId": 7571009414,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-01T06:38:14.028Z"
+    "at": "2026-08-01T06:31:38.593Z"
+  },
+  {
+    "userId": 8111336532,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-01T08:48:10.156Z"
   }
 ]
