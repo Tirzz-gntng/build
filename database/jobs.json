@@ -3173,8 +3173,18 @@
     "user_id": 8233992441,
     "analyze_only": false,
     "build_type": "release",
-    "status": "success",
-    "created_at": "2026-08-01T14:47:07.783Z",
-    "completed_at": "2026-08-01T14:53:12.738Z"
+    "status": "pending",
+    "created_at": "2026-08-01T14:47:07.783Z"
+  },
+  "msahv8uy5lkb0": {
+    "job_id": "msahv8uy5lkb0",
+    "release_id": 363549894,
+    "release_tag": "build-msahv8uy5lkb0",
+    "run_id": 30704837067,
+    "user_id": 8646172257,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-01T14:56:37.857Z"
   }
 }
