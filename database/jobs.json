@@ -3097,5 +3097,16 @@
     "status": "success",
     "created_at": "2026-08-01T13:35:38.740Z",
     "completed_at": "2026-08-01T13:42:29.934Z"
+  },
+  "msafgrbuljzbl": {
+    "job_id": "msafgrbuljzbl",
+    "release_id": 363536418,
+    "release_tag": "build-msafgrbuljzbl",
+    "run_id": 30702498825,
+    "user_id": 6304585438,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-01T13:49:22.672Z"
   }
 }
