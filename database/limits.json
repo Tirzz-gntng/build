@@ -414,7 +414,8 @@
     },
     "8753425748": {
       "rename": 2,
-      "renameall": 1
+      "renameall": 1,
+      "renameapp": 1
     }
   }
 }
