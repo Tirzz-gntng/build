@@ -775,5 +775,12 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-01T03:03:43.485Z"
+  },
+  {
+    "userId": 8385750215,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename All",
+    "at": "2026-08-01T03:20:19.794Z"
   }
 ]
