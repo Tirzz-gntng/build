@@ -3022,7 +3022,19 @@
     "user_id": 8753425748,
     "analyze_only": false,
     "build_type": "release",
+    "status": "success",
+    "created_at": "2026-08-01T12:37:10.117Z",
+    "completed_at": "2026-08-01T12:43:27.714Z"
+  },
+  "msadcgfsn3vtp": {
+    "job_id": "msadcgfsn3vtp",
+    "release_id": 363524614,
+    "release_tag": "build-msadcgfsn3vtp",
+    "run_id": 30700493149,
+    "user_id": 7469470196,
+    "analyze_only": false,
+    "build_type": "release",
     "status": "pending",
-    "created_at": "2026-08-01T12:37:10.117Z"
+    "created_at": "2026-08-01T12:50:02.390Z"
   }
 }
