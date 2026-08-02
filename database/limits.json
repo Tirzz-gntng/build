@@ -413,13 +413,14 @@
       "renameapp": 1
     },
     "8753425748": {
-      "rename": 1,
-      "renameall": 1
+      "rename": 2,
+      "renameall": 1,
+      "renameapp": 1
     }
   },
   "2026-08-02": {
-    "8579155731": {
-      "rename": 1
+    "7594684824": {
+      "renameapp": 1
     }
   }
 }
