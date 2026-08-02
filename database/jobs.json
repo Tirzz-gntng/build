@@ -2908,32 +2908,12 @@
     "user_id": 8753425748,
     "created_at": "2026-08-02T04:08:38.153Z"
   },
-  "msbinzyw93880": {
-    "job_id": "msbinzyw93880",
-    "release_id": 363733249,
-    "release_tag": "build-msbinzyw93880",
-    "run_id": 30739133347,
-    "user_id": 2014641177,
-    "created_at": "2026-08-02T08:06:48.803Z"
-  },
-  "msbiwea3fgdfw": {
-    "job_id": "msbiwea3fgdfw",
-    "release_id": 363734470,
-    "release_tag": "build-msbiwea3fgdfw",
-    "run_id": 30739348264,
-    "user_id": 2014641177,
-    "created_at": "2026-08-02T08:13:21.033Z"
-  },
-  "msbmzugxhicvh": {
-    "job_id": "msbmzugxhicvh",
-    "release_id": 363754708,
-    "release_tag": "build-msbmzugxhicvh",
-    "run_id": 30743135100,
-    "user_id": 2014641177,
-    "analyze_only": false,
-    "build_type": "release",
-    "status": "success",
-    "created_at": "2026-08-02T10:07:59.432Z",
-    "completed_at": "2026-08-02T10:14:52.435Z"
+  "msbrwhoosbgq1": {
+    "job_id": "msbrwhoosbgq1",
+    "release_id": 363781409,
+    "release_tag": "build-msbrwhoosbgq1",
+    "run_id": 30747778452,
+    "user_id": 8753425748,
+    "created_at": "2026-08-02T12:25:18.008Z"
   }
 }
