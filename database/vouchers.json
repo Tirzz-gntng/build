@@ -82,7 +82,9 @@
   "TIRZZ-7E2EC9D6": {
     "amount": 5,
     "maxUses": 10,
-    "usedBy": [],
+    "usedBy": [
+      8339160365
+    ],
     "createdAt": "2026-08-03T16:26:25.496Z"
   }
 }
