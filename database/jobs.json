@@ -3214,7 +3214,8 @@
     "user_id": 8850323507,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-04T22:36:02.993Z"
+    "status": "success",
+    "created_at": "2026-08-04T22:36:02.993Z",
+    "completed_at": "2026-08-04T22:45:06.994Z"
   }
 }
