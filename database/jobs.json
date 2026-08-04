@@ -3169,5 +3169,16 @@
     "status": "failed",
     "created_at": "2026-08-04T04:34:03.178Z",
     "completed_at": "2026-08-04T04:34:47.052Z"
+  },
+  "mseqy99ss01ws": {
+    "job_id": "mseqy99ss01ws",
+    "release_id": 364929491,
+    "release_tag": "build-mseqy99ss01ws",
+    "run_id": 30918556015,
+    "user_id": 8346202713,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-04T14:21:59.795Z"
   }
 }
