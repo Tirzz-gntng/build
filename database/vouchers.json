@@ -90,7 +90,9 @@
   "TIRZZ-80B81CB3": {
     "amount": 100,
     "maxUses": 10,
-    "usedBy": [],
+    "usedBy": [
+      1633996191
+    ],
     "createdAt": "2026-08-04T06:02:40.363Z"
   }
 }
