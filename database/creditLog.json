@@ -1104,5 +1104,19 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-04T04:22:07.476Z"
+  },
+  {
+    "userId": 1633996191,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Nama App",
+    "at": "2026-08-04T04:24:49.104Z"
+  },
+  {
+    "userId": 1633996191,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Nama App",
+    "at": "2026-08-04T04:28:19.313Z"
   }
 ]
