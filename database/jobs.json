@@ -3190,8 +3190,9 @@
     "user_id": 1691675075,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-04T14:24:56.399Z"
+    "status": "success",
+    "created_at": "2026-08-04T14:24:56.399Z",
+    "completed_at": "2026-08-04T14:32:09.841Z"
   },
   "mser6fyaxdr8e": {
     "job_id": "mser6fyaxdr8e",
