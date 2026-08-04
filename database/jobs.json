@@ -3180,5 +3180,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-04T14:21:59.795Z"
+  },
+  "mser1zyqzrm18": {
+    "job_id": "mser1zyqzrm18",
+    "release_id": 364931447,
+    "release_tag": "build-mser1zyqzrm18",
+    "run_id": 30918813799,
+    "user_id": 1691675075,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-04T14:24:56.399Z"
   }
 }
