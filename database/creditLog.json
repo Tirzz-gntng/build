@@ -1118,5 +1118,40 @@
     "amount": 1,
     "reason": "Rename Nama App",
     "at": "2026-08-04T04:28:19.313Z"
+  },
+  {
+    "userId": 1633996191,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Nama App",
+    "at": "2026-08-04T04:30:11.483Z"
+  },
+  {
+    "userId": 1633996191,
+    "type": "earn",
+    "amount": 100,
+    "reason": "Redeem voucher",
+    "at": "2026-08-04T06:05:53.902Z"
+  },
+  {
+    "userId": 8850323507,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-04T06:18:49.674Z"
+  },
+  {
+    "userId": 1057803758,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-04T07:41:42.358Z"
+  },
+  {
+    "userId": 8262492176,
+    "type": "earn",
+    "amount": 100,
+    "reason": "Redeem voucher",
+    "at": "2026-08-04T07:55:48.273Z"
   }
 ]
