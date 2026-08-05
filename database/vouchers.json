@@ -107,7 +107,10 @@
   "TIRZZ-2B7CEBEB": {
     "amount": 100,
     "maxUses": 13,
-    "usedBy": [],
+    "usedBy": [
+      8749754012,
+      8551947639
+    ],
     "createdAt": "2026-08-05T15:30:41.269Z"
   }
 }
