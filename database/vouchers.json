@@ -99,7 +99,9 @@
   "TIRZZ-B35BA72D": {
     "amount": 100,
     "maxUses": 10,
-    "usedBy": [],
+    "usedBy": [
+      8842560485
+    ],
     "createdAt": "2026-08-04T14:25:32.570Z"
   }
 }
