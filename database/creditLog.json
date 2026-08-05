@@ -1251,5 +1251,12 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-05T12:27:10.641Z"
+  },
+  {
+    "userId": 8360460554,
+    "type": "earn",
+    "amount": 1e+22,
+    "reason": "Diberikan owner",
+    "at": "2026-08-05T12:31:52.213Z"
   }
 ]
