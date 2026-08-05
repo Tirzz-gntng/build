@@ -103,5 +103,11 @@
       8842560485
     ],
     "createdAt": "2026-08-04T14:25:32.570Z"
+  },
+  "TIRZZ-2B7CEBEB": {
+    "amount": 100,
+    "maxUses": 13,
+    "usedBy": [],
+    "createdAt": "2026-08-05T15:30:41.269Z"
   }
 }
