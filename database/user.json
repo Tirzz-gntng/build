@@ -437,8 +437,8 @@
     "first_name": "aldo",
     "last_name": null,
     "joinedAt": "2026-07-30T04:29:06.268Z",
-    "lastSeenAt": "2026-08-05T16:04:28.087Z",
-    "startCount": 7
+    "lastSeenAt": "2026-07-30T08:16:56.221Z",
+    "startCount": 5
   },
   "8817174913": {
     "id": 8817174913,
@@ -926,40 +926,13 @@
     "lastSeenAt": "2026-08-05T13:12:40.249Z",
     "startCount": 1
   },
-  "8898946116": {
-    "id": 8898946116,
-    "username": "ROGERTYIU",
-    "first_name": "ROGER",
+  "7565486613": {
+    "id": 7565486613,
+    "username": "XyanzZz",
+    "first_name": "#xyanzz! 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
     "last_name": null,
-    "joinedAt": "2026-08-05T15:22:00.949Z",
-    "lastSeenAt": "2026-08-05T15:22:00.949Z",
-    "startCount": 1
-  },
-  "8551947639": {
-    "id": 8551947639,
-    "username": "XDra000",
-    "first_name": "</>DЯA</>",
-    "last_name": null,
-    "joinedAt": "2026-08-05T15:22:07.150Z",
-    "lastSeenAt": "2026-08-05T15:22:07.150Z",
-    "startCount": 1
-  },
-  "8584716706": {
-    "id": 8584716706,
-    "username": "maklogntg",
-    "first_name": "† 𝐕𝐚𝐧𝐧",
-    "last_name": "𝐌𝚲𖥕𝐔🕷️",
-    "joinedAt": "2026-08-05T15:22:10.546Z",
-    "lastSeenAt": "2026-08-05T15:22:10.546Z",
-    "startCount": 1
-  },
-  "8749754012": {
-    "id": 8749754012,
-    "username": "Xtarla09",
-    "first_name": "Keylaaa",
-    "last_name": null,
-    "joinedAt": "2026-08-05T16:13:10.082Z",
-    "lastSeenAt": "2026-08-05T16:13:10.082Z",
+    "joinedAt": "2026-08-06T01:37:24.970Z",
+    "lastSeenAt": "2026-08-06T01:37:24.970Z",
     "startCount": 1
   }
 }
