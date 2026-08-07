@@ -1440,5 +1440,12 @@
     "amount": 1000,
     "reason": "Redeem voucher",
     "at": "2026-08-07T09:18:57.111Z"
+  },
+  {
+    "userId": 7969124895,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-07T10:08:00.952Z"
   }
 ]
