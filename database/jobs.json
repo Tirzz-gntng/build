@@ -3343,8 +3343,9 @@
     "user_id": 7469470196,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-07T08:43:34.717Z"
+    "status": "failed",
+    "created_at": "2026-08-07T08:43:34.717Z",
+    "completed_at": "2026-08-07T08:49:53.250Z"
   },
   "msipdr1w9d3zx": {
     "job_id": "msipdr1w9d3zx",
