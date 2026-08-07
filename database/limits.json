@@ -444,7 +444,8 @@
       "rename": 1
     },
     "8575422079": {
-      "rename": 3
+      "rename": 3,
+      "renameapp": 2
     }
   }
 }
