@@ -3345,5 +3345,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-07T08:43:34.717Z"
+  },
+  "msipdr1w9d3zx": {
+    "job_id": "msipdr1w9d3zx",
+    "release_id": 366622299,
+    "release_tag": "build-msipdr1w9d3zx",
+    "run_id": 31163277387,
+    "user_id": 8020078074,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-07T08:49:09.553Z"
   }
 }
