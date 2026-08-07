@@ -677,11 +677,11 @@
   "7469470196": {
     "id": 7469470196,
     "username": "alverokael",
-    "first_name": "./Database/𝘒𝘢𝘦𝘭-𝘈𝘭𝘷𝘦𝘳𝘰.js",
+    "first_name": "「 𝗞𝗔𝗘𝗟 」【𝗡𝗘𝗩𝗘𝗥】𝗙𝗔𝗗𝗘𝗦 〆",
     "last_name": null,
     "joinedAt": "2026-08-01T12:15:43.142Z",
-    "lastSeenAt": "2026-08-01T12:15:43.142Z",
-    "startCount": 1
+    "lastSeenAt": "2026-08-07T08:39:15.138Z",
+    "startCount": 2
   },
   "8970441182": {
     "id": 8970441182,
@@ -951,6 +951,24 @@
     "last_name": null,
     "joinedAt": "2026-08-06T16:36:39.558Z",
     "lastSeenAt": "2026-08-06T16:36:39.558Z",
+    "startCount": 1
+  },
+  "8819277205": {
+    "id": 8819277205,
+    "username": "ZIPER234",
+    "first_name": "ziperr (akun bapa)",
+    "last_name": null,
+    "joinedAt": "2026-08-07T08:41:31.954Z",
+    "lastSeenAt": "2026-08-07T08:41:31.954Z",
+    "startCount": 1
+  },
+  "8011374969": {
+    "id": 8011374969,
+    "username": null,
+    "first_name": "ALASKA",
+    "last_name": null,
+    "joinedAt": "2026-08-07T08:54:10.341Z",
+    "lastSeenAt": "2026-08-07T08:54:10.341Z",
     "startCount": 1
   }
 }
