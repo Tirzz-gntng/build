@@ -116,7 +116,9 @@
   "TIRZZ-1A0E9758": {
     "amount": 1000,
     "maxUses": 15,
-    "usedBy": [],
+    "usedBy": [
+      7969124895
+    ],
     "createdAt": "2026-08-07T09:15:50.045Z"
   }
 }
