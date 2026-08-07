@@ -572,8 +572,8 @@
     "first_name": "𝘼𝙓𝙊 AKUN 2",
     "last_name": null,
     "joinedAt": "2026-08-01T02:09:27.378Z",
-    "lastSeenAt": "2026-08-07T19:18:42.166Z",
-    "startCount": 5
+    "lastSeenAt": "2026-08-07T19:18:49.070Z",
+    "startCount": 8
   },
   "8385750215": {
     "id": 8385750215,
@@ -997,5 +997,14 @@
     "joinedAt": "2026-08-07T10:24:22.044Z",
     "lastSeenAt": "2026-08-07T10:24:22.044Z",
     "startCount": 1
+  },
+  "8194549650": {
+    "id": 8194549650,
+    "username": "Aboykenalpot",
+    "first_name": "The real dev den𓇢𓆸",
+    "last_name": null,
+    "joinedAt": "2026-08-07T19:18:46.185Z",
+    "lastSeenAt": "2026-08-07T19:18:48.925Z",
+    "startCount": 3
   }
 }
