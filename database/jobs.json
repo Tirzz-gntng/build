@@ -3498,8 +3498,9 @@
     "user_id": 8891256102,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-09T11:20:44.260Z"
+    "status": "success",
+    "created_at": "2026-08-09T11:20:44.260Z",
+    "completed_at": "2026-08-09T11:26:16.567Z"
   },
   "mslpt5qqtva7u": {
     "job_id": "mslpt5qqtva7u",
