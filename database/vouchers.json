@@ -127,7 +127,9 @@
   "TIRZZ-84532C9B": {
     "amount": 50,
     "maxUses": 10,
-    "usedBy": [],
+    "usedBy": [
+      8557561674
+    ],
     "createdAt": "2026-08-09T11:06:25.178Z"
   }
 }
