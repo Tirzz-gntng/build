@@ -1015,5 +1015,14 @@
     "joinedAt": "2026-08-09T10:11:49.041Z",
     "lastSeenAt": "2026-08-09T10:41:10.817Z",
     "startCount": 5
+  },
+  "8557561674": {
+    "id": 8557561674,
+    "username": "Monzo_Support_ServiceOfficial65",
+    "first_name": "Support Monzo Banking Service",
+    "last_name": null,
+    "joinedAt": "2026-08-09T10:49:09.228Z",
+    "lastSeenAt": "2026-08-09T10:49:09.228Z",
+    "startCount": 1
   }
 }
