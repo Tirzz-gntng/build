@@ -1491,31 +1491,10 @@
     "at": "2026-08-10T01:48:29.500Z"
   },
   {
-    "userId": 7605988729,
+    "userId": 8698012334,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-10T11:23:46.681Z"
-  },
-  {
-    "userId": 8709724282,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-10T11:25:29.688Z"
-  },
-  {
-    "userId": 8817174913,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-10T12:39:33.492Z"
-  },
-  {
-    "userId": 8804030340,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-10T13:18:44.169Z"
+    "at": "2026-08-10T14:25:41.643Z"
   }
 ]
