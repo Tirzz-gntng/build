@@ -33,27 +33,20 @@
     "created_at": "2026-08-11T15:44:34.533Z",
     "completed_at": "2026-08-11T16:15:49.509Z"
   },
-  "msowpgz4o6buj": {
-    "job_id": "msowpgz4o6buj",
-    "release_id": 368722327,
-    "release_tag": "build-msowpgz4o6buj",
-    "run_id": 31515400059,
-    "user_id": 8818976798,
-    "analyze_only": false,
-    "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-11T17:01:07.726Z"
+  "msozm3pd0op4k": {
+    "job_id": "msozm3pd0op4k",
+    "release_id": 368767658,
+    "release_tag": "build-msozm3pd0op4k",
+    "run_id": 31522346741,
+    "user_id": 1302677028,
+    "created_at": "2026-08-11T18:22:11.660Z"
   },
-  "msozv406c7vyf": {
-    "job_id": "msozv406c7vyf",
-    "release_id": 368771721,
-    "release_tag": "build-msozv406c7vyf",
-    "run_id": 31522952166,
-    "user_id": 7682717127,
-    "analyze_only": false,
-    "build_type": "release",
-    "status": "failed",
-    "created_at": "2026-08-11T18:29:11.501Z",
-    "completed_at": "2026-08-11T18:32:37.598Z"
+  "msp8g25dxmjm4": {
+    "job_id": "msp8g25dxmjm4",
+    "release_id": 368889879,
+    "release_tag": "build-msp8g25dxmjm4",
+    "run_id": 31542631584,
+    "user_id": 8023404781,
+    "created_at": "2026-08-11T22:29:32.136Z"
   }
 }
