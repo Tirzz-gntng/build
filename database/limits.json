@@ -468,7 +468,11 @@
       "renameapp": 1
     },
     "8061637096": {
-      "renameapp": 1
+      "renameapp": 1,
+      "rename": 1
+    },
+    "6795621361": {
+      "rename": 1
     }
   }
 }
