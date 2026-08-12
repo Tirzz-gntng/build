@@ -33,52 +33,38 @@
     "created_at": "2026-08-11T15:44:34.533Z",
     "completed_at": "2026-08-11T16:15:49.509Z"
   },
-  "msozm3pd0op4k": {
-    "job_id": "msozm3pd0op4k",
-    "release_id": 368767658,
-    "release_tag": "build-msozm3pd0op4k",
-    "run_id": 31522346741,
-    "user_id": 1302677028,
-    "created_at": "2026-08-11T18:22:11.660Z"
+  "msowpgz4o6buj": {
+    "job_id": "msowpgz4o6buj",
+    "release_id": 368722327,
+    "release_tag": "build-msowpgz4o6buj",
+    "run_id": 31515400059,
+    "user_id": 8818976798,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-11T17:01:07.726Z"
   },
-  "msp8g25dxmjm4": {
-    "job_id": "msp8g25dxmjm4",
-    "release_id": 368889879,
-    "release_tag": "build-msp8g25dxmjm4",
-    "run_id": 31542631584,
-    "user_id": 8023404781,
-    "created_at": "2026-08-11T22:29:32.136Z"
+  "msozv406c7vyf": {
+    "job_id": "msozv406c7vyf",
+    "release_id": 368771721,
+    "release_tag": "build-msozv406c7vyf",
+    "run_id": 31522952166,
+    "user_id": 7682717127,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "failed",
+    "created_at": "2026-08-11T18:29:11.501Z",
+    "completed_at": "2026-08-11T18:32:37.598Z"
   },
-  "mspcrqgq1h83y": {
-    "job_id": "mspcrqgq1h83y",
-    "release_id": 368927733,
-    "release_tag": "build-mspcrqgq1h83y",
-    "run_id": 31550418275,
-    "user_id": 8181935584,
-    "created_at": "2026-08-12T00:30:28.310Z"
-  },
-  "msph07yrd017j": {
-    "job_id": "msph07yrd017j",
-    "release_id": 368959950,
-    "release_tag": "build-msph07yrd017j",
-    "run_id": 31557001015,
-    "user_id": 8913824139,
-    "created_at": "2026-08-12T02:29:02.212Z"
-  },
-  "msph52zddsuyu": {
-    "job_id": "msph52zddsuyu",
-    "release_id": 368960964,
-    "release_tag": "build-msph52zddsuyu",
-    "run_id": 31557207714,
-    "user_id": 8913824139,
-    "created_at": "2026-08-12T02:32:48.625Z"
-  },
-  "mspj09kd0b73v": {
-    "job_id": "mspj09kd0b73v",
-    "release_id": 368975528,
-    "release_tag": "build-mspj09kd0b73v",
-    "run_id": 31560000338,
-    "user_id": 8181935584,
-    "created_at": "2026-08-12T03:25:05.389Z"
+  "msplbmh0lk8lm": {
+    "job_id": "msplbmh0lk8lm",
+    "release_id": 368993732,
+    "release_tag": "build-msplbmh0lk8lm",
+    "run_id": 31563441662,
+    "user_id": 8684609957,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-12T04:29:53.916Z"
   }
 }
