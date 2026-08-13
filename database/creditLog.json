@@ -1608,5 +1608,12 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-13T09:42:44.586Z"
+  },
+  {
+    "userId": 8683458484,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-13T13:01:38.931Z"
   }
 ]
