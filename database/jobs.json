@@ -170,7 +170,8 @@
     "user_id": 7682717127,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-14T10:57:43.487Z"
+    "status": "success",
+    "created_at": "2026-08-14T10:57:43.487Z",
+    "completed_at": "2026-08-14T11:04:03.060Z"
   }
 }
