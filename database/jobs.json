@@ -209,24 +209,12 @@
     "created_at": "2026-08-15T05:29:32.805Z",
     "completed_at": "2026-08-15T05:35:59.117Z"
   },
-  "mstzm56algu07": {
-    "job_id": "mstzm56algu07",
-    "release_id": 370976323,
-    "release_tag": "build-mstzm56algu07",
-    "run_id": 31869248129,
-    "user_id": 6184617179,
-    "analyze_only": false,
-    "build_type": "release",
-    "status": "success",
-    "created_at": "2026-08-15T06:21:43.994Z",
-    "completed_at": "2026-08-15T06:29:16.786Z"
-  },
-  "msuhxct55ba85": {
-    "job_id": "msuhxct55ba85",
-    "release_id": 371074463,
-    "release_tag": "build-msuhxct55ba85",
-    "run_id": 31891201971,
-    "user_id": 8864070359,
-    "created_at": "2026-08-15T14:54:18.154Z"
+  "msuk5bing7gq7": {
+    "job_id": "msuk5bing7gq7",
+    "release_id": 371090851,
+    "release_tag": "build-msuk5bing7gq7",
+    "run_id": 31894091856,
+    "user_id": 7066917642,
+    "created_at": "2026-08-15T15:55:48.408Z"
   }
 }
