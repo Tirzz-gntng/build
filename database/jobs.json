@@ -221,20 +221,39 @@
     "created_at": "2026-08-15T06:21:43.994Z",
     "completed_at": "2026-08-15T06:29:16.786Z"
   },
-  "msuhxct55ba85": {
-    "job_id": "msuhxct55ba85",
-    "release_id": 371074463,
-    "release_tag": "build-msuhxct55ba85",
-    "run_id": 31891201971,
-    "user_id": 8864070359,
-    "created_at": "2026-08-15T14:54:18.154Z"
+  "msubeycxcp0ul": {
+    "job_id": "msubeycxcp0ul",
+    "release_id": 371036832,
+    "release_tag": "build-msubeycxcp0ul",
+    "run_id": 31883104517,
+    "user_id": 8439770245,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "failed",
+    "created_at": "2026-08-15T11:51:21.874Z",
+    "completed_at": "2026-08-15T11:51:55.311Z"
   },
-  "msukw5w40fiez": {
-    "job_id": "msukw5w40fiez",
-    "release_id": 371096499,
-    "release_tag": "build-msukw5w40fiez",
-    "run_id": 31895068717,
-    "user_id": 8864070359,
-    "created_at": "2026-08-15T16:16:50.469Z"
+  "msug1rokmsc1t": {
+    "job_id": "msug1rokmsc1t",
+    "release_id": 371062792,
+    "release_tag": "build-msug1rokmsc1t",
+    "run_id": 31888783022,
+    "user_id": 8536607177,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "failed",
+    "created_at": "2026-08-15T14:01:24.431Z",
+    "completed_at": "2026-08-15T14:01:57.713Z"
+  },
+  "msurqiqc7koql": {
+    "job_id": "msurqiqc7koql",
+    "release_id": 371137562,
+    "release_tag": "build-msurqiqc7koql",
+    "run_id": 31904008775,
+    "user_id": 8446999327,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-15T19:28:36.432Z"
   }
 }
