@@ -1832,5 +1832,12 @@
     "amount": 1,
     "reason": "JS/HTML to Dart",
     "at": "2026-08-15T14:05:37.957Z"
+  },
+  {
+    "userId": 8545016113,
+    "type": "spend",
+    "amount": 1,
+    "reason": "JS/HTML to Dart",
+    "at": "2026-08-15T14:06:14.723Z"
   }
 ]
