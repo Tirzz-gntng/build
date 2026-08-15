@@ -1825,5 +1825,12 @@
     "amount": 1,
     "reason": "Rename Domain",
     "at": "2026-08-15T13:58:16.807Z"
+  },
+  {
+    "userId": 8545016113,
+    "type": "spend",
+    "amount": 1,
+    "reason": "JS/HTML to Dart",
+    "at": "2026-08-15T14:05:37.957Z"
   }
 ]
