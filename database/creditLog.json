@@ -1790,5 +1790,19 @@
     "amount": 1,
     "reason": "JS/HTML to Dart",
     "at": "2026-08-15T11:49:53.475Z"
+  },
+  {
+    "userId": 8439770245,
+    "type": "spend",
+    "amount": 1,
+    "reason": "JS/HTML to Dart",
+    "at": "2026-08-15T11:58:50.673Z"
+  },
+  {
+    "userId": 6017173543,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-15T12:02:59.486Z"
   }
 ]
