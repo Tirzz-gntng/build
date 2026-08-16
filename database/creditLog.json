@@ -1916,5 +1916,12 @@
     "amount": 10000,
     "reason": "Redeem voucher",
     "at": "2026-08-16T11:21:06.876Z"
+  },
+  {
+    "userId": 5484676102,
+    "type": "earn",
+    "amount": 10000,
+    "reason": "Redeem voucher",
+    "at": "2026-08-16T11:22:22.736Z"
   }
 ]
