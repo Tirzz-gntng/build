@@ -14,7 +14,9 @@
   "TIRZZ-C9B61A21": {
     "amount": 9000,
     "maxUses": 7,
-    "usedBy": [],
+    "usedBy": [
+      6669673614
+    ],
     "createdAt": "2026-08-13T01:42:07.323Z"
   }
 }
