@@ -1895,5 +1895,12 @@
     "amount": 1,
     "reason": "Rename Domain",
     "at": "2026-08-16T05:03:59.696Z"
+  },
+  {
+    "userId": 8716571245,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-16T06:08:13.133Z"
   }
 ]
