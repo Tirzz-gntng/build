@@ -265,7 +265,8 @@
     "user_id": 8694971743,
     "analyze_only": true,
     "build_type": "analyze",
-    "status": "pending",
-    "created_at": "2026-08-16T03:41:13.223Z"
+    "status": "failed",
+    "created_at": "2026-08-16T03:41:13.223Z",
+    "completed_at": "2026-08-16T03:44:50.235Z"
   }
 }
