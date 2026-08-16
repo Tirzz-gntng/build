@@ -1839,5 +1839,19 @@
     "amount": 1,
     "reason": "JS/HTML to Dart",
     "at": "2026-08-15T14:06:14.723Z"
+  },
+  {
+    "userId": 8446999327,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-15T18:08:51.506Z"
+  },
+  {
+    "userId": 6669673614,
+    "type": "earn",
+    "amount": 9000,
+    "reason": "Redeem voucher",
+    "at": "2026-08-16T02:17:33.566Z"
   }
 ]
