@@ -264,5 +264,13 @@
     "run_id": 32024253901,
     "user_id": 7066917642,
     "created_at": "2026-08-17T11:17:50.776Z"
+  },
+  "msx6yxrmh2zq2": {
+    "job_id": "msx6yxrmh2zq2",
+    "release_id": 371729394,
+    "release_tag": "build-msx6yxrmh2zq2",
+    "run_id": 32028550409,
+    "user_id": 7066917642,
+    "created_at": "2026-08-17T12:11:04.840Z"
   }
 }
