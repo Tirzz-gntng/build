@@ -241,62 +241,12 @@
     "user_id": 7066917642,
     "created_at": "2026-08-17T08:43:54.839Z"
   },
-  "msx2c6ie1bhjz": {
-    "job_id": "msx2c6ie1bhjz",
-    "release_id": 371663768,
-    "release_tag": "build-msx2c6ie1bhjz",
-    "run_id": 32018057351,
-    "user_id": 1248673684,
-    "analyze_only": false,
-    "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-17T10:00:41.551Z"
-  },
-  "msx2dm10t8lnr": {
-    "job_id": "msx2dm10t8lnr",
-    "release_id": 371664340,
-    "release_tag": "build-msx2dm10t8lnr",
-    "run_id": 32018155380,
-    "user_id": 7264088517,
-    "analyze_only": false,
-    "build_type": "release",
-    "status": "failed",
-    "created_at": "2026-08-17T10:01:53.039Z",
-    "completed_at": "2026-08-17T10:05:30.196Z"
-  },
-  "msx2mcv0y574k": {
-    "job_id": "msx2mcv0y574k",
-    "release_id": 371667747,
-    "release_tag": "build-msx2mcv0y574k",
-    "run_id": 32018718647,
-    "user_id": 1248673684,
-    "analyze_only": false,
-    "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-17T10:08:36.769Z"
-  },
-  "msx2utkv9c2fn": {
-    "job_id": "msx2utkv9c2fn",
-    "release_id": 371670907,
-    "release_tag": "build-msx2utkv9c2fn",
-    "run_id": 32019260604,
-    "user_id": 1248673684,
-    "analyze_only": false,
-    "build_type": "release",
-    "status": "success",
-    "created_at": "2026-08-17T10:15:07.023Z",
-    "completed_at": "2026-08-17T10:21:37.612Z"
-  },
-  "msx3kl7d9fpnp": {
-    "job_id": "msx3kl7d9fpnp",
-    "release_id": 371680342,
-    "release_tag": "build-msx3kl7d9fpnp",
-    "run_id": 32020848739,
-    "user_id": 1248673684,
-    "analyze_only": false,
-    "build_type": "release",
-    "status": "success",
-    "created_at": "2026-08-17T10:35:13.103Z",
-    "completed_at": "2026-08-17T10:42:14.801Z"
+  "msx47bqstygem": {
+    "job_id": "msx47bqstygem",
+    "release_id": 371688867,
+    "release_tag": "build-msx47bqstygem",
+    "run_id": 32022289066,
+    "user_id": 7066917642,
+    "created_at": "2026-08-17T10:53:32.578Z"
   }
 }
