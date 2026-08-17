@@ -1972,5 +1972,12 @@
     "amount": 1,
     "reason": "Ganti Icon App",
     "at": "2026-08-17T01:20:25.568Z"
+  },
+  {
+    "userId": 8284947555,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T02:14:32.026Z"
   }
 ]
