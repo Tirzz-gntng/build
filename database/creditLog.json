@@ -1958,5 +1958,19 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-17T00:21:44.529Z"
+  },
+  {
+    "userId": 7830664234,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T01:19:31.398Z"
+  },
+  {
+    "userId": 7830664234,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Ganti Icon App",
+    "at": "2026-08-17T01:20:25.568Z"
   }
 ]
