@@ -274,5 +274,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-17T10:08:36.769Z"
+  },
+  "msx2utkv9c2fn": {
+    "job_id": "msx2utkv9c2fn",
+    "release_id": 371670907,
+    "release_tag": "build-msx2utkv9c2fn",
+    "run_id": 32019260604,
+    "user_id": 1248673684,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T10:15:07.023Z"
   }
 }
