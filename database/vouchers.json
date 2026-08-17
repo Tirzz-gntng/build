@@ -1,36 +1,8 @@
 {
-  "TIRZZ-FB393A3B": {
-    "amount": 10,
-    "maxUses": 10,
-    "usedBy": [],
-    "createdAt": "2026-08-11T14:35:47.074Z"
-  },
-  "TIRZZ-6BF8AAD8": {
-    "amount": 100,
+  "TIRZZ-59427BD8": {
+    "amount": 35,
     "maxUses": 100,
     "usedBy": [],
-    "createdAt": "2026-08-11T15:42:09.433Z"
-  },
-  "TIRZZ-C9B61A21": {
-    "amount": 9000,
-    "maxUses": 7,
-    "usedBy": [
-      6669673614,
-      5484676102
-    ],
-    "createdAt": "2026-08-13T01:42:07.323Z"
-  },
-  "TIRZZ-3BC76648": {
-    "amount": 10000,
-    "maxUses": 100,
-    "usedBy": [
-      7264111439,
-      5484676102,
-      8864070359,
-      7967495500,
-      8545016113,
-      8780569380
-    ],
-    "createdAt": "2026-08-16T11:11:15.268Z"
+    "createdAt": "2026-08-17T15:48:41.368Z"
   }
 }
