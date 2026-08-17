@@ -240,5 +240,16 @@
     "run_id": 32011711505,
     "user_id": 7066917642,
     "created_at": "2026-08-17T08:43:54.839Z"
+  },
+  "msx2c6ie1bhjz": {
+    "job_id": "msx2c6ie1bhjz",
+    "release_id": 371663768,
+    "release_tag": "build-msx2c6ie1bhjz",
+    "run_id": 32018057351,
+    "user_id": 1248673684,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T10:00:41.551Z"
   }
 }
