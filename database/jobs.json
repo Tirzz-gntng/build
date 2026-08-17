@@ -286,5 +286,16 @@
     "status": "success",
     "created_at": "2026-08-17T10:15:07.023Z",
     "completed_at": "2026-08-17T10:21:37.612Z"
+  },
+  "msx3kl7d9fpnp": {
+    "job_id": "msx3kl7d9fpnp",
+    "release_id": 371680342,
+    "release_tag": "build-msx3kl7d9fpnp",
+    "run_id": 32020848739,
+    "user_id": 1248673684,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T10:35:13.103Z"
   }
 }
