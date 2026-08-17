@@ -2007,5 +2007,12 @@
     "amount": 1,
     "reason": "JS/HTML to Dart",
     "at": "2026-08-17T10:50:05.545Z"
+  },
+  {
+    "userId": 7098865055,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-17T10:53:27.107Z"
   }
 ]
