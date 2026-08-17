@@ -272,5 +272,13 @@
     "run_id": 32028550409,
     "user_id": 7066917642,
     "created_at": "2026-08-17T12:11:04.840Z"
+  },
+  "msx8ieuq523wt": {
+    "job_id": "msx8ieuq523wt",
+    "release_id": 371754070,
+    "release_tag": "build-msx8ieuq523wt",
+    "run_id": 32032182918,
+    "user_id": 7066917642,
+    "created_at": "2026-08-17T12:54:12.494Z"
   }
 }
