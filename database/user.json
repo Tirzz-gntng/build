@@ -113,8 +113,8 @@
     "first_name": "ღ 𝗼𝗹𝗶𝗻𝗲 𝘃𝗼𝗿𝘁𝗵𝘆𝗻",
     "last_name": null,
     "joinedAt": "2026-08-15T02:07:04.228Z",
-    "lastSeenAt": "2026-08-17T05:12:02.128Z",
-    "startCount": 34
+    "lastSeenAt": "2026-08-17T01:12:02.549Z",
+    "startCount": 31
   },
   "8832468783": {
     "id": 8832468783,
@@ -176,8 +176,8 @@
     "first_name": "⏤͟͟͞͞ 𝗝𝗮𝗸𝘇𝘇 𝘃𝗼𝗿𝘁𝗵𝘆𝗻",
     "last_name": null,
     "joinedAt": "2026-08-15T02:07:28.672Z",
-    "lastSeenAt": "2026-08-17T04:35:17.985Z",
-    "startCount": 7
+    "lastSeenAt": "2026-08-16T08:23:24.484Z",
+    "startCount": 6
   },
   "8864070359": {
     "id": 8864070359,
@@ -277,5 +277,14 @@
     "joinedAt": "2026-08-17T00:21:44.530Z",
     "lastSeenAt": "2026-08-17T00:21:44.530Z",
     "startCount": 1
+  },
+  "8284947555": {
+    "id": 8284947555,
+    "username": "makloowampos",
+    "first_name": "rafz ⏤͟͟͞MPRUY",
+    "last_name": null,
+    "joinedAt": "2026-08-17T02:15:28.701Z",
+    "lastSeenAt": "2026-08-17T05:17:36.303Z",
+    "startCount": 2
   }
 }
