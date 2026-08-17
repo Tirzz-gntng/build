@@ -2,7 +2,9 @@
   "TIRZZ-59427BD8": {
     "amount": 35,
     "maxUses": 100,
-    "usedBy": [],
+    "usedBy": [
+      8306803707
+    ],
     "createdAt": "2026-08-17T15:48:41.368Z"
   }
 }
