@@ -263,5 +263,16 @@
     "status": "failed",
     "created_at": "2026-08-17T10:01:53.039Z",
     "completed_at": "2026-08-17T10:05:30.196Z"
+  },
+  "msx2mcv0y574k": {
+    "job_id": "msx2mcv0y574k",
+    "release_id": 371667747,
+    "release_tag": "build-msx2mcv0y574k",
+    "run_id": 32018718647,
+    "user_id": 1248673684,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-17T10:08:36.769Z"
   }
 }
