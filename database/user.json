@@ -32,8 +32,8 @@
     "first_name": "FKZz",
     "last_name": "🫨",
     "joinedAt": "2026-08-17T15:31:54.312Z",
-    "lastSeenAt": "2026-08-18T10:17:52.258Z",
-    "startCount": 14
+    "lastSeenAt": "2026-08-18T11:04:09.700Z",
+    "startCount": 15
   },
   "8349280262": {
     "id": 8349280262,
@@ -79,5 +79,14 @@
     "joinedAt": "2026-08-17T15:32:10.432Z",
     "lastSeenAt": "2026-08-18T08:51:42.637Z",
     "startCount": 3
+  },
+  "7196075214": {
+    "id": 7196075214,
+    "username": "Unknownshw03",
+    "first_name": "Anonymous",
+    "last_name": null,
+    "joinedAt": "2026-08-18T10:32:53.489Z",
+    "lastSeenAt": "2026-08-18T10:32:53.489Z",
+    "startCount": 1
   }
 }
