@@ -411,5 +411,16 @@
     "build_type": "analyze",
     "status": "pending",
     "created_at": "2026-08-19T08:37:47.554Z"
+  },
+  "mszu97q4j6sxr": {
+    "job_id": "mszu97q4j6sxr",
+    "release_id": 372901457,
+    "release_tag": "build-mszu97q4j6sxr",
+    "run_id": 32233569967,
+    "user_id": 1652368791,
+    "analyze_only": true,
+    "build_type": "analyze",
+    "status": "pending",
+    "created_at": "2026-08-19T08:38:13.844Z"
   }
 }
