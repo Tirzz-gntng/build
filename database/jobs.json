@@ -368,5 +368,13 @@
     "run_id": 32187781281,
     "user_id": 7404995940,
     "created_at": "2026-08-18T21:27:12.592Z"
+  },
+  "mszcgwcl06ww1": {
+    "job_id": "mszcgwcl06ww1",
+    "release_id": 372728235,
+    "release_tag": "build-mszcgwcl06ww1",
+    "run_id": 32200836572,
+    "user_id": 7404995940,
+    "created_at": "2026-08-19T00:20:09.219Z"
   }
 }
