@@ -119,31 +119,17 @@
     "at": "2026-08-18T10:42:38.518Z"
   },
   {
-    "userId": 6669673614,
+    "userId": 8715310135,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-19T00:17:50.231Z"
+    "at": "2026-08-19T00:22:10.611Z"
   },
   {
-    "userId": 8864070359,
+    "userId": 8677127302,
     "type": "earn",
     "amount": 5,
     "reason": "Kredit awal (user baru)",
-    "at": "2026-08-19T00:17:54.062Z"
-  },
-  {
-    "userId": 8446999327,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-19T00:17:56.014Z"
-  },
-  {
-    "userId": 8545016113,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-19T00:17:56.457Z"
+    "at": "2026-08-19T00:22:13.972Z"
   }
 ]
