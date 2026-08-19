@@ -377,20 +377,15 @@
     "user_id": 7404995940,
     "created_at": "2026-08-19T00:20:09.219Z"
   },
-  "mszgg9u5t5mbu": {
-    "job_id": "mszgg9u5t5mbu",
-    "release_id": 372759071,
-    "release_tag": "build-mszgg9u5t5mbu",
-    "run_id": 32207645269,
-    "user_id": 1512469782,
-    "created_at": "2026-08-19T02:11:14.348Z"
-  },
-  "mszgxmgn1tvzd": {
-    "job_id": "mszgxmgn1tvzd",
-    "release_id": 372763001,
-    "release_tag": "build-mszgxmgn1tvzd",
-    "run_id": 32208445675,
-    "user_id": 6287649864,
-    "created_at": "2026-08-19T02:24:41.917Z"
+  "mszq3xk8tysce": {
+    "job_id": "mszq3xk8tysce",
+    "release_id": 372844902,
+    "release_tag": "build-mszq3xk8tysce",
+    "run_id": 32224557764,
+    "user_id": 8458589362,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-19T06:42:39.808Z"
   }
 }
