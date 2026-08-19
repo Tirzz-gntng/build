@@ -399,5 +399,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-19T10:42:35.234Z"
+  },
+  "mszyuu0wn7cc5": {
+    "job_id": "mszyuu0wn7cc5",
+    "release_id": 372973460,
+    "release_tag": "build-mszyuu0wn7cc5",
+    "run_id": 32244365636,
+    "user_id": 8100962677,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-19T10:47:09.542Z"
   }
 }
