@@ -376,5 +376,13 @@
     "run_id": 32200836572,
     "user_id": 7404995940,
     "created_at": "2026-08-19T00:20:09.219Z"
+  },
+  "mszgg9u5t5mbu": {
+    "job_id": "mszgg9u5t5mbu",
+    "release_id": 372759071,
+    "release_tag": "build-mszgg9u5t5mbu",
+    "run_id": 32207645269,
+    "user_id": 1512469782,
+    "created_at": "2026-08-19T02:11:14.348Z"
   }
 }
