@@ -152,5 +152,54 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-19T06:20:11.155Z"
+  },
+  {
+    "userId": 1652368791,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-19T06:52:56.888Z"
+  },
+  {
+    "userId": 8698277791,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-19T06:52:59.622Z"
+  },
+  {
+    "userId": 1875265106,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-19T06:53:00.084Z"
+  },
+  {
+    "userId": 8713611748,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-19T06:53:00.480Z"
+  },
+  {
+    "userId": 8525151939,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-19T06:53:00.883Z"
+  },
+  {
+    "userId": 7396051446,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-19T06:53:01.285Z"
+  },
+  {
+    "userId": 7310790906,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-19T06:53:01.689Z"
   }
 ]
