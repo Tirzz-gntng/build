@@ -20,12 +20,10 @@
     ],
     "createdAt": "2026-08-18T10:04:47.187Z"
   },
-  "TIRZZ-E8D214ED": {
-    "amount": 20,
-    "maxUses": 20,
-    "usedBy": [
-      8437195828
-    ],
-    "createdAt": "2026-08-19T13:16:44.083Z"
+  "TIRZZ-00492FA9": {
+    "amount": 67,
+    "maxUses": 999999,
+    "usedBy": [],
+    "createdAt": "2026-08-19T13:55:47.479Z"
   }
 }
