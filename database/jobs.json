@@ -472,5 +472,16 @@
     "status": "failed",
     "created_at": "2026-08-19T13:26:30.311Z",
     "completed_at": "2026-08-19T13:32:17.299Z"
+  },
+  "mt05jsnkscu91": {
+    "job_id": "mt05jsnkscu91",
+    "release_id": 373093429,
+    "release_tag": "build-mt05jsnkscu91",
+    "run_id": 32260760918,
+    "user_id": 7861218464,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-19T13:53:58.081Z"
   }
 }
