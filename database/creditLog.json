@@ -294,10 +294,17 @@
     "at": "2026-08-19T13:05:05.595Z"
   },
   {
-    "userId": 6857483002,
-    "type": "earn",
-    "amount": 5,
-    "reason": "Kredit awal (user baru)",
-    "at": "2026-08-19T13:06:39.597Z"
+    "userId": 7605597547,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-19T13:06:14.007Z"
+  },
+  {
+    "userId": 7605597547,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-19T13:07:06.939Z"
   }
 ]
