@@ -23,7 +23,9 @@
   "TIRZZ-E8D214ED": {
     "amount": 20,
     "maxUses": 20,
-    "usedBy": [],
+    "usedBy": [
+      8437195828
+    ],
     "createdAt": "2026-08-19T13:16:44.083Z"
   }
 }
