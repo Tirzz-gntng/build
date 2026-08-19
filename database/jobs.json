@@ -436,5 +436,16 @@
     "status": "failed",
     "created_at": "2026-08-19T13:09:10.237Z",
     "completed_at": "2026-08-19T13:09:43.981Z"
+  },
+  "mt043jtz0x4n6": {
+    "job_id": "mt043jtz0x4n6",
+    "release_id": 373064315,
+    "release_tag": "build-mt043jtz0x4n6",
+    "run_id": 32256846888,
+    "user_id": 6857483002,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-19T13:13:11.991Z"
   }
 }
