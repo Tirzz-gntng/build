@@ -271,5 +271,12 @@
     "amount": 1,
     "reason": "Rename All",
     "at": "2026-08-19T12:47:17.130Z"
+  },
+  {
+    "userId": 8813337476,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-19T12:50:05.438Z"
   }
 ]
