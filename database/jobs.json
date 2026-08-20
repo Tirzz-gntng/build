@@ -369,28 +369,39 @@
     "user_id": 7404995940,
     "created_at": "2026-08-18T21:27:12.592Z"
   },
-  "mszcgwcl06ww1": {
-    "job_id": "mszcgwcl06ww1",
-    "release_id": 372728235,
-    "release_tag": "build-mszcgwcl06ww1",
-    "run_id": 32200836572,
-    "user_id": 7404995940,
-    "created_at": "2026-08-19T00:20:09.219Z"
-  },
-  "mt0fn1yae9g48": {
-    "job_id": "mt0fn1yae9g48",
-    "release_id": 373269227,
-    "release_tag": "build-mt0fn1yae9g48",
-    "run_id": 32288268268,
+  "mt0fllnw5u2qd": {
+    "job_id": "mt0fllnw5u2qd",
+    "release_id": 373268678,
+    "release_tag": "build-mt0fllnw5u2qd",
+    "run_id": 32288161936,
     "user_id": 5484676102,
-    "created_at": "2026-08-19T18:36:23.000Z"
+    "analyze_only": true,
+    "build_type": "analyze",
+    "status": "failed",
+    "created_at": "2026-08-19T18:35:13.951Z",
+    "completed_at": "2026-08-19T18:39:03.562Z"
   },
-  "mt0u0muca3sa3": {
-    "job_id": "mt0u0muca3sa3",
-    "release_id": 373436176,
-    "release_tag": "build-mt0u0muca3sa3",
-    "run_id": 32320595484,
-    "user_id": 8611705228,
-    "created_at": "2026-08-20T01:19:33.881Z"
+  "mt0fv90tu4r8x": {
+    "job_id": "mt0fv90tu4r8x",
+    "release_id": 373272701,
+    "release_tag": "build-mt0fv90tu4r8x",
+    "run_id": 32288867441,
+    "user_id": 5484676102,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "failed",
+    "created_at": "2026-08-19T18:42:42.984Z",
+    "completed_at": "2026-08-19T18:47:16.933Z"
+  },
+  "mt15e7hml7uw7": {
+    "job_id": "mt15e7hml7uw7",
+    "release_id": 373530840,
+    "release_tag": "build-mt15e7hml7uw7",
+    "run_id": 32340398304,
+    "user_id": 8155916749,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-20T06:37:57.913Z"
   }
 }
