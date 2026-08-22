@@ -437,7 +437,8 @@
     "user_id": 6481062081,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-22T02:18:18.004Z"
+    "status": "failed",
+    "created_at": "2026-08-22T02:18:18.004Z",
+    "completed_at": "2026-08-22T02:19:02.425Z"
   }
 }
