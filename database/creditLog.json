@@ -208,5 +208,26 @@
     "amount": 1,
     "reason": "Rename Nama App",
     "at": "2026-08-22T02:33:52.525Z"
+  },
+  {
+    "userId": 6481062081,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-22T05:42:25.364Z"
+  },
+  {
+    "userId": 6481062081,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-22T06:06:40.095Z"
+  },
+  {
+    "userId": 8524777510,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-22T09:33:40.014Z"
   }
 ]
