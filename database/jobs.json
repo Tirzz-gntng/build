@@ -487,5 +487,16 @@
     "status": "failed",
     "created_at": "2026-08-23T06:34:55.514Z",
     "completed_at": "2026-08-23T06:38:55.188Z"
+  },
+  "mt5gd9toe3s1g": {
+    "job_id": "mt5gd9toe3s1g",
+    "release_id": 375137819,
+    "release_tag": "build-mt5gd9toe3s1g",
+    "run_id": 32624191111,
+    "user_id": 8293553356,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-23T06:55:31.805Z"
   }
 }
