@@ -475,5 +475,17 @@
     "build_type": "analyze",
     "status": "pending",
     "created_at": "2026-08-23T06:30:07.138Z"
+  },
+  "mt5fmplyhyqhg": {
+    "job_id": "mt5fmplyhyqhg",
+    "release_id": 375134162,
+    "release_tag": "build-mt5fmplyhyqhg",
+    "run_id": 32623295159,
+    "user_id": 8293553356,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "failed",
+    "created_at": "2026-08-23T06:34:55.514Z",
+    "completed_at": "2026-08-23T06:38:55.188Z"
   }
 }
