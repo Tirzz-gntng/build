@@ -229,5 +229,33 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-22T09:33:40.014Z"
+  },
+  {
+    "userId": 8649606507,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-22T13:40:31.860Z"
+  },
+  {
+    "userId": 8910763331,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-22T18:35:09.148Z"
+  },
+  {
+    "userId": 1057803758,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-23T03:29:31.820Z"
+  },
+  {
+    "userId": 8293553356,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-23T05:52:33.906Z"
   }
 ]
