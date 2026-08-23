@@ -500,5 +500,16 @@
     "status": "failed",
     "created_at": "2026-08-23T06:55:31.805Z",
     "completed_at": "2026-08-23T06:58:59.970Z"
+  },
+  "mt5gqzkna9elw": {
+    "job_id": "mt5gqzkna9elw",
+    "release_id": 375139770,
+    "release_tag": "build-mt5gqzkna9elw",
+    "run_id": 32624671671,
+    "user_id": 8293553356,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-23T07:06:12.526Z"
   }
 }
