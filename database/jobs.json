@@ -533,7 +533,8 @@
     "user_id": 8362651939,
     "analyze_only": true,
     "build_type": "analyze",
-    "status": "pending",
-    "created_at": "2026-08-24T14:09:18.619Z"
+    "status": "failed",
+    "created_at": "2026-08-24T14:09:18.619Z",
+    "completed_at": "2026-08-24T14:09:52.845Z"
   }
 }
