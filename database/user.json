@@ -230,8 +230,8 @@
     "first_name": "#xyanzz! 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
     "last_name": null,
     "joinedAt": "2026-08-25T10:39:25.598Z",
-    "lastSeenAt": "2026-08-25T11:28:44.317Z",
-    "startCount": 7
+    "lastSeenAt": "2026-08-25T11:34:30.905Z",
+    "startCount": 8
   },
   "8725811713": {
     "id": 8725811713,
@@ -285,6 +285,15 @@
     "last_name": null,
     "joinedAt": "2026-08-25T10:53:12.924Z",
     "lastSeenAt": "2026-08-25T10:53:12.924Z",
+    "startCount": 1
+  },
+  "6004304175": {
+    "id": 6004304175,
+    "username": "dimxxajalah",
+    "first_name": "𝐃𝐈𝐌𝐗-𝐗-𝐃𝐄𝐘-𝐑𝐀𝐓",
+    "last_name": null,
+    "joinedAt": "2026-08-25T11:31:40.068Z",
+    "lastSeenAt": "2026-08-25T11:31:40.068Z",
     "startCount": 1
   }
 }
