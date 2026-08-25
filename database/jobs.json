@@ -548,5 +548,16 @@
     "status": "failed",
     "created_at": "2026-08-25T10:48:04.028Z",
     "completed_at": "2026-08-25T10:51:41.521Z"
+  },
+  "mt8jtwbi4bzmy": {
+    "job_id": "mt8jtwbi4bzmy",
+    "release_id": 376332976,
+    "release_tag": "build-mt8jtwbi4bzmy",
+    "run_id": 32839679904,
+    "user_id": 8437195828,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-25T10:55:47.421Z"
   }
 }
