@@ -536,5 +536,16 @@
     "status": "failed",
     "created_at": "2026-08-24T14:09:18.619Z",
     "completed_at": "2026-08-24T14:09:52.845Z"
+  },
+  "mt8jk0fatwxm2": {
+    "job_id": "mt8jk0fatwxm2",
+    "release_id": 376328873,
+    "release_tag": "build-mt8jk0fatwxm2",
+    "run_id": 32839023266,
+    "user_id": 8437195828,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-25T10:48:04.028Z"
   }
 }
