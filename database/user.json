@@ -17,6 +17,15 @@
     "lastSeenAt": "2026-08-18T09:59:15.771Z",
     "startCount": 1
   },
+  "2048950525": {
+    "id": 2048950525,
+    "username": "yatemco",
+    "first_name": "Ibanz 🏅",
+    "last_name": null,
+    "joinedAt": "2026-08-25T12:07:47.883Z",
+    "lastSeenAt": "2026-08-25T12:07:47.883Z",
+    "startCount": 1
+  },
   "8604790393": {
     "id": 8604790393,
     "username": "YazzzTyz",
@@ -230,8 +239,8 @@
     "first_name": "#xyanzz! 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
     "last_name": null,
     "joinedAt": "2026-08-25T10:39:25.598Z",
-    "lastSeenAt": "2026-08-25T11:57:07.713Z",
-    "startCount": 12
+    "lastSeenAt": "2026-08-25T12:54:11.329Z",
+    "startCount": 13
   },
   "8725811713": {
     "id": 8725811713,
@@ -304,5 +313,23 @@
     "joinedAt": "2026-08-25T11:43:04.082Z",
     "lastSeenAt": "2026-08-25T11:47:10.508Z",
     "startCount": 2
+  },
+  "8061637096": {
+    "id": 8061637096,
+    "username": "Bowo112",
+    "first_name": "HAIKAL",
+    "last_name": "AJA",
+    "joinedAt": "2026-08-25T12:21:14.407Z",
+    "lastSeenAt": "2026-08-25T12:21:14.407Z",
+    "startCount": 1
+  },
+  "8306752132": {
+    "id": 8306752132,
+    "username": "Rafzzxxxx",
+    "first_name": "Rafzxx",
+    "last_name": null,
+    "joinedAt": "2026-08-25T12:30:46.723Z",
+    "lastSeenAt": "2026-08-25T12:30:46.723Z",
+    "startCount": 1
   }
 }
