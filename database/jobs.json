@@ -560,5 +560,16 @@
     "status": "failed",
     "created_at": "2026-08-25T10:55:47.421Z",
     "completed_at": "2026-08-25T10:56:20.844Z"
+  },
+  "mt8k0p8798acx": {
+    "job_id": "mt8k0p8798acx",
+    "release_id": 376335885,
+    "release_tag": "build-mt8k0p8798acx",
+    "run_id": 32840124870,
+    "user_id": 7565486613,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-25T11:01:02.435Z"
   }
 }
