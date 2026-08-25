@@ -35,5 +35,11 @@
     "maxUses": 300,
     "usedBy": [],
     "createdAt": "2026-08-25T11:37:36.483Z"
+  },
+  "TIRZZ-52813801": {
+    "amount": 20,
+    "maxUses": 200,
+    "usedBy": [],
+    "createdAt": "2026-08-25T11:42:29.201Z"
   }
 }
