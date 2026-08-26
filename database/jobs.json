@@ -616,5 +616,16 @@
     "run_id": 32853971688,
     "user_id": 7565486613,
     "created_at": "2026-08-25T13:32:46.678Z"
+  },
+  "mtaak7t7a0pzc": {
+    "job_id": "mtaak7t7a0pzc",
+    "release_id": 377257143,
+    "release_tag": "build-mtaak7t7a0pzc",
+    "run_id": 32987119824,
+    "user_id": 7571009414,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-26T16:11:50.847Z"
   }
 }
