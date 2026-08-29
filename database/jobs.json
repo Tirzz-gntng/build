@@ -705,7 +705,8 @@
     "user_id": 8779699416,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-29T00:18:34.950Z"
+    "status": "success",
+    "created_at": "2026-08-29T00:18:34.950Z",
+    "completed_at": "2026-08-29T00:24:00.312Z"
   }
 }
