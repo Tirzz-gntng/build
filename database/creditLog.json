@@ -453,5 +453,19 @@
     "amount": 9999999999,
     "reason": "Diberikan owner",
     "at": "2026-08-29T10:38:19.833Z"
+  },
+  {
+    "userId": 8846771617,
+    "type": "earn",
+    "amount": 9999999999,
+    "reason": "Diberikan owner",
+    "at": "2026-08-29T10:47:56.815Z"
+  },
+  {
+    "userId": 8128235295,
+    "type": "earn",
+    "amount": 999999999,
+    "reason": "Diberikan owner",
+    "at": "2026-08-29T10:48:59.687Z"
   }
 ]
