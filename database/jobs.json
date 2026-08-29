@@ -732,5 +732,16 @@
     "status": "failed",
     "created_at": "2026-08-29T06:44:27.571Z",
     "completed_at": "2026-08-29T06:49:10.173Z"
+  },
+  "mte11a7swgtny": {
+    "job_id": "mte11a7swgtny",
+    "release_id": 378902230,
+    "release_tag": "build-mte11a7swgtny",
+    "run_id": 33239654851,
+    "user_id": 8527789360,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-29T06:56:11.301Z"
   }
 }
